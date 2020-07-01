@@ -1,0 +1,87 @@
+Projekt: Neighbor Discovery Proxy (NDPv6)
+  Autor: David Krym
+  Datum: 28.11.2011
+
+
+Použité zkratky:
+----------------
+Zde i všech zdrojových kódech (včetně komentářů) se vyskytují tyto zkratky:
+ ND = Neighbor Discovery
+ NA = Neighbor Advertisement
+ NS = Neighbor Solicitation
+ NC = Neighbor Cache (table)
+PTB = Packet Too Big (ICMPv6)
+MTU = Maximum Transmission Unit
+
+
+Informace:
+----------
+Tento projekt implementuje NDPv6 dle standardu RFC 4389. Program na zadaných
+rozhraních naslouchá a vyhodnocuje, zda mají být příchozí pakety přeposlány.
+Program si pro obě zadaná rozhraní uchovává vlastní NC tabulku, na základě které
+přeposílá/zahazuje příchozí unicast pakety. Multicast pakety se přeposílají vždy.
+Každému přeposlanému paketu se upravuje minimálně ethernetová hlavička.
+
+
+Rozšíření/omezení:
+------------------
+Z paketů, které obsahují MAC adresu i mimo ethernetovou hlavičku, umí program
+správně upravit pouze NA a NS pakety. Ostatní ND pakety přeposílá pouze se
+změnou ethernetové hlavičky. Pokud se má přeposlat paket, který je větší než
+MTU hodnota rozhraní, je zahozen a zdroji paketu je poslána ICMPv6 PTB zpráva.
+
+
+Testování:
+----------
+Program byl otestován na OS Linux. Správná funkčnost byla ověřena při fyzyckém
+propojení dalších počítačů s touto proxy. Při testování s virtuálními rozhraními
+(tj. VBox1----PROXY----VBox2) při pingu z VBox1 na VBox2 dochází k přijmutí
+multicast paketů dvakrát, i když jsou oba virtuální stroje na oddělených sítích.
+VBox1 odešle jeden NS, proxy zachytí dva a dva také přepošle. Toto se zachytí
+i v programu Wireshark, proto to nevidím jako chybu. Na funkčnost to vliv nemá.
+
+
+Použití:
+--------
+Program se musí spouštět s root právy a je nutné zadat dva povinné
+parametry: "-i" (název vnitřního rozhraní), "-o" (název vnějšího rozhraní)
+Příklad spuštění:  ./ndpv6 -i eth0 -o eth1
+
+
+Příklad výstupu pro ping (NS, NA, ping_request, ping_reply):
+------------------------------------------------------------
+isa$ sudo ./ndpv6 -i eth0 -o eth1
+interface in : eth0     | MTU: 1500   | MAC: a:0:27:0:0:0
+  IPv6 adresy:  fe80::800:27ff:fe00:0
+
+interface out: eth1     | MTU: 1500   | MAC: a:0:27:0:0:1
+  IPv6 adresy:  fe80::800:27ff:fe00:1
+  
+IN : 00:01:04, 8:0:27:7a:9a:dc > 33:33:ff:d8:85:96, fe80::fe7a:9adc > ff02::1:ffd8:8596, ICMPv6[NS] fe80::fed8:8596, 8:0:27:7a:9a:dc
+OUT: 00:01:04, a:0:27:0:0:1 > 33:33:ff:d8:85:96, fe80::fe7a:9adc > ff02::1:ffd8:8596, ICMPv6[NS] fe80::fed8:8596, a:0:27:0:0:1
+IN : 00:01:04, 8:0:27:d8:85:96 > a:0:27:0:0:1, fe80::fed8:8596 > fe80::fe7a:9adc, ICMPv6[NA] fe80::fed8:8596, 8:0:27:d8:85:96
+OUT: 00:01:04, a:0:27:0:0:0 > 8:0:27:7a:9a:dc, fe80::fed8:8596 > fe80::fe7a:9adc, ICMPv6[NA] fe80::fed8:8596, a:0:27:0:0:0
+IN : 00:01:04, 8:0:27:7a:9a:dc > a:0:27:0:0:0, fe80::fe7a:9adc > fe80::fed8:8596
+OUT: 00:01:04, a:0:27:0:0:1 > 8:0:27:d8:85:96, fe80::fe7a:9adc > fe80::fed8:8596
+IN : 00:01:04, 8:0:27:d8:85:96 > a:0:27:0:0:1, fe80::fed8:8596 > fe80::fe7a:9adc
+OUT: 00:01:04, a:0:27:0:0:0 > 8:0:27:7a:9a:dc, fe80::fed8:8596 > fe80::fe7a:9adc
+
+
+Seznam souborů:
+---------------
+manual.pdf
+Readme
+Makefile
+main.c
+ndpv6_icmpv6.h
+ndpv6_icmpv6.c
+ndpv6_if.h
+ndpv6_if.c
+ndpv6_ipv6.h
+ndpv6_ipv6.c
+ndpv6_neigh_cache.h
+ndpv6_neigh_cache.c
+ndpv6_packet.h
+ndpv6_packet.c
+ndpv6_printer.h
+ndpv6_printer.c
