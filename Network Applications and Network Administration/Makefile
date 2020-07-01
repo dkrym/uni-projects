@@ -1,6 +1,6 @@
 #
 # ISA projekt: ndpv6
-# @author David Krym xkrymd00@stud.fit.vutbr.cz
+# @author David Krym
 # @file Makefile
 #
 
