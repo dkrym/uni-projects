@@ -315,7 +315,7 @@ sub printHelp
 {
   print <<END;
 Program JSON2XML na prevod formatu JSON do XML.
-Autor: David Krym, xkrymd00\@stud.fit.vutbr.cz
+Autor: David Krym
 
 Pouziti: $0 [PREPINACE]
 
