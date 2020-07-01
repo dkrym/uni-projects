@@ -106,7 +106,7 @@ def paramParse(param):
 def usage():
     msg="""Skript C Header Analysis pro analyzu hlavickovych souboru jazyka C.
 Vytvari databazi nalezenych funkci ve formatu XML.
-Autor: David Krym, xkrymd00@stud.fit.vutbr.cz
+Autor: David Krym
 
 Pouziti: cha.py [PREPINACE]
   --help                  Vypise tuto napovedu.
