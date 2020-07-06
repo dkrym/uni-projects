@@ -1,0 +1,3356 @@
+36235;Abertamy
+67904;Adamov 1
+67908;Adamov 3
+51722;Albrechtice nad Orlici
+39816;Albrechtice nad Vltavou
+73543;Albrechtice u Ceskeho Tesina
+46843;Albrechtice v Jizerskych horach
+74255;Albrechticky
+79332;Andelska Hora
+69633;Archlebov
+40714;Arnoltice u Decina
+35201;As 1
+35202;As 2
+68703;Babice u Uherskeho Hradiste
+34531;Babylon
+29401;Bakov nad Jizerou
+68754;Banov u Uherskeho Brodu
+74254;Bartosovice na Morave
+51763;Bartosovice v Orlickych horach
+73901;Baska
+58851;Batelov
+54237;Batnovice
+38773;Bavorov
+36464;Becov nad Teplou
+43526;Becov u Mostu
+28143;Becvary
+79821;Bedihost
+46812;Bedrichov u Jablonce nad Nisou
+67139;Beharovice
+41186;Bechlin
+39165;Bechyne
+34526;Bela nad Radbuzou
+56905;Bela nad Svitavou
+29421;Bela pod Bezdezem
+79085;Bela pod Pradedem
+38743;Belcice
+78315;Belkovice-Lastany
+75364;Belotin
+29471;Benatky nad Jizerou 1
+29472;Benatky nad Jizerou 2
+51237;Benecko
+38282;Benesov nad Cernou
+40722;Benesov nad Ploucnici
+67953;Benesov u Boskovic
+25601;Benesov u Prahy
+51206;Benesov u Semil
+67506;Benetice
+74241;Bernartice nad Odrou
+25769;Bernartice u Dolnich Kralovic
+79057;Bernartice u Javornika
+39843;Bernartice u Milevska
+54204;Bernartice u Trutnova
+26601;Beroun 1
+26604;Beroun 4
+28908;Berunice
+38281;Besednice
+34001;Besiny
+53845;Bestvina
+54964;Bezdekov nad Metuji
+34041;Bezdekov u Klatov
+34953;Bezdruzice
+29429;Bezno
+33041;Bezverov
+78326;Bila Lhota
+54472;Bila Tremesna
+79069;Bila Voda u Javornika
+28572;Bile Podoli
+54452;Bile Policany
+41801;Bilina 1
+41803;Bilina 3
+41804;Bilina 4
+74301;Bilovec 1
+74292;Bilovec 5
+66401;Bilovice nad Svitavou
+68712;Bilovice u Uherskeho Hradiste
+46332;Bily Kostel nad Nisou
+46363;Bily Potok pod Smrkem
+51794;Bily Ujezd u Dobrusky
+67558;Biskupice u Hrotovic
+56945;Biskupice u Jevicka
+76341;Biskupice u Luhacovic
+67110;Bitov
+67801;Blansko 1
+67803;Blansko 3
+38801;Blatna
+69671;Blatnice pod Svatym Antoninkem
+33025;Blatnice u Plzne
+43984;Blatno u Podboran
+37852;Blazejov
+66408;Blazovice
+50347;Blesno
+34545;Blizejov
+47104;Blizevedly
+67155;Blizkovice
+33601;Blovice
+43988;Blsany
+66456;Blucina
+78961;Bludov
+28931;Bobnice
+59255;Bobrova
+74803;Bobrovniky
+50323;Boharyne
+68341;Bohdalice
+39491;Bohdalin
+59213;Bohdalov
+28525;Bohdanec u Zbraslavic
+78964;Bohdikov
+73581;Bohumin 1
+73582;Bohumin 2
+73531;Bohumin 3
+73552;Bohumin 4
+73551;Bohumin 5
+73583;Bohumin 6
+78314;Bohunovice
+54906;Bohuslavice nad Metuji
+74719;Bohuslavice u Hlucina
+79856;Bohuslavice u Konice
+76351;Bohuslavice u Zlina
+41156;Bohusovice nad Ohri
+79398;Bohusov
+26241;Bohutin
+75108;Bochor
+36471;Bochov
+53826;Bojanov
+68771;Bojkovice
+74723;Bolatice
+43121;Bolebor
+51731;Bolehost
+69112;Boleradice
+38229;Boletice u Ceskeho Krumlova
+34802;Bor u Tachova
+74295;Bordovice
+37367;Borek
+69108;Boretice u Hustopeci
+69175;Borkovany
+39191;Borkovice
+51724;Borohradek
+26215;Borotice
+67937;Borotin u Boskovic
+39135;Borotin u Tabora
+38492;Borova Lada
+56982;Borova u Policky
+37312;Borovany
+54477;Borovnice u Stare Paky
+68763;Borsice u Blatnice
+68709;Borsice u Buchlovic
+37382;Borsov nad Vltavou
+59461;Bory
+68001;Boskovice
+68355;Bosovice
+78325;Bouzov
+54974;Bozanov
+39132;Bozejovice
+39461;Bozejov
+36262;Bozi Dar
+36226;Bozicany
+67164;Bozice
+51213;Bozkov
+43522;Branany
+43547;Brandov
+25001;Brandys nad Labem-Stara Boleslav 1
+25002;Brandys nad Labem-Stara Boleslav 2
+56112;Brandys nad Orlici
+27341;Brandysek
+67177;Branisovice
+68332;Brankovice
+75645;Branky na Morave
+78825;Branna
+79393;Brantice
+33824;Brasy 1
+33825;Brasy 3
+46821;Bratrikov
+27363;Bratronice
+74281;Bravantice
+69001;Breclav 1
+69002;Breclav 2
+69003;Breclav 3
+69141;Breclav 4
+69006;Breclav 6
+76823;Brest
+67165;Brezany u Znojma
+69181;Brezi u Mikulova
+56923;Brezina u Moravske Trebove
+56995;Breziny u Policky
+39171;Breznice u Bechyne
+26272;Breznice
+67574;Breznik
+43145;Brezno u Chomutova
+29406;Brezno u Mlade Boleslave
+68713;Brezolupy
+56902;Brezova nad Svitavou
+36215;Brezova u Karlovych Var
+35761;Brezova u Sokolova
+68767;Brezova u Uherskeho Brodu
+74744;Brezova u Vitkova
+29424;Brezovice u Mlade Boleslave
+76345;Brezuvky
+79351;Bridlicna
+38206;Brloh
+56904;Brnenec
+78975;Brnicko u Zabreha
+47129;Brniste
+65502;Brno 02
+61000;Brno 10
+61100;Brno 11
+61200;Brno 12
+61300;Brno 13
+61400;Brno 14
+61500;Brno 15
+61600;Brno 16
+61700;Brno 17
+61800;Brno 18
+61900;Brno 19
+60100;Brno 1
+60020;Brno 200
+62000;Brno 20
+62100;Brno 21
+62200;Brno 22
+62300;Brno 23
+62400;Brno 24
+62500;Brno 25
+62700;Brno 27
+62800;Brno 28
+62900;Brno 29
+60200;Brno 2
+63000;Brno 30
+63400;Brno 34
+63500;Brno 35
+63600;Brno 36
+63700;Brno 37
+63800;Brno 38
+63900;Brno 39
+60300;Brno 3
+64100;Brno 41
+64200;Brno 42
+64300;Brno 43
+64400;Brno 44
+64500;Brno 45
+64700;Brno 47
+60400;Brno 4
+60500;Brno 5
+60600;Brno 6
+60700;Brno 7
+60900;Brno 9
+29473;Brodce nad Jizerou
+79846;Brodek u Konice
+75103;Brodek u Prerova
+79807;Brodek u Prostejova
+55001;Broumov 1
+55003;Broumov 3
+54984;Broumov 5
+26742;Broumy
+41181;Brozany nad Ohri
+58832;Brtnice
+40760;Brtniky
+69111;Brumovice na Morave
+74771;Brumovice u Opavy
+76331;Brumov-Bylnice 1
+76334;Brumov-Bylnice 3
+79201;Bruntal 1
+79203;Bruntal 3
+73944;Brusperk
+35722;Bublava
+68501;Bucovice
+37892;Budec
+37891;Budiskovice
+56965;Budislav u Litomysle
+74787;Budisov nad Budisovkou
+67503;Budisov u Trebice
+67542;Budkov
+41118;Budyne nad Ohri
+68708;Buchlovice
+69631;Bukovany u Hodonina
+35755;Bukovany u Sokolova
+73985;Bukovec
+69189;Bulhary
+46374;Bulovka
+27343;Bustehrad
+53801;Bylany
+37334;Bynov
+27732;Bysice
+41761;Bystrany
+51781;Bystre u Dobrusky
+56992;Bystre u Policky
+56154;Bystrec
+73995;Bystrice nad Olsi
+59301;Bystrice nad Pernstejnem
+76861;Bystrice pod Hostynem 1
+76841;Bystrice pod Hostynem 7
+68755;Bystrice pod Lopenikem
+25751;Bystrice u Benesova
+75624;Bystricka
+78341;Bystrocice
+53322;Byst
+69681;Bzenec
+26743;Bzova u Horovic
+29443;Cachovice u Mlade Boleslave
+34002;Cachrov
+67524;Caslavice
+28601;Caslav
+51750;Castolovice
+39463;Castrov
+66423;Cebin
+34951;Cebiv
+38752;Cehnice
+25765;Cechtice
+67507;Cechtin
+79858;Cechy pod Kosirem
+69614;Cejc
+69615;Cejkovice
+73912;Celadna
+25088;Celakovice
+79816;Celechovice na Hane
+26224;Cenkov
+53332;Cepi
+38756;Ceprovice
+25722;Cercany
+50777;Cerekvice nad Bystrici
+56953;Cerekvice nad Loucnou
+28102;Cerhenice
+26761;Cerhovice
+51725;Cermna nad Orlici
+54377;Cermna u Vrchlabi
+67921;Cerna Hora
+38223;Cerna v Posumavi
+79054;Cerna Voda
+36223;Cernava
+43901;Cerncice
+51704;Cernikovice
+50343;Cernilov
+25228;Cernosice
+34958;Cernosin
+75368;Cernotin
+67975;Cernovice u Boskovic
+39494;Cernovice u Tabora
+50304;Cernozice nad Labem
+27323;Cernuc
+54344;Cerny Dul
+39446;Cervena Recice
+56161;Cervena Voda 1
+56162;Cervena Voda 3
+28542;Cervene Janovice
+28121;Cervene Pecky
+54941;Cerveny Kostelec
+25788;Cerveny Ujezd u Votic
+58261;Ceska Bela
+54921;Ceska Cermna
+40721;Ceska Kamenice
+34532;Ceska Kubice
+47001;Ceska Lipa 1
+47002;Ceska Lipa 2
+47003;Ceska Lipa 3
+47005;Ceska Lipa 5
+47006;Ceska Lipa 6
+54956;Ceska Metuje
+56185;Ceska Rybna u Zamberka
+55203;Ceska Skalice
+56001;Ceska Trebova 1
+56002;Ceska Trebova 2
+56003;Ceska Trebova 3
+79081;Ceska Ves
+37010;Ceske Budejovice 10
+37011;Ceske Budejovice 11
+37012;Ceske Budejovice 12
+37013;Ceske Budejovice 13
+37001;Ceske Budejovice 1
+37018;Ceske Budejovice 20
+37002;Ceske Budejovice 2
+37003;Ceske Budejovice 3
+37004;Ceske Budejovice 4
+37005;Ceske Budejovice 5
+37006;Ceske Budejovice 6
+37007;Ceske Budejovice 7
+37008;Ceske Budejovice 8
+37009;Ceske Budejovice 9
+56552;Ceske Hermanice
+56114;Ceske Libchavy
+51771;Ceske Mezirici
+37810;Ceske Velenice
+28201;Cesky Brod
+46343;Cesky Dub
+38101;Cesky Krumlov 1
+38102;Cesky Krumlov 2
+38103;Cesky Krumlov 3
+38104;Cesky Krumlov 4
+37883;Cesky Rudolec
+25727;Cesky sternberk
+73701;Cesky Tesin 1
+73703;Cesky Tesin 3
+73562;Cesky Tesin 6
+73707;Cesky Tesin 7
+38719;Cestice
+28510;Cestin
+25247;Cestlice
+67938;Cetkovice
+39411;Cetoraz
+38771;Cicenice
+34033;Cihan
+58287;Cihost
+67578;Cikov
+39804;Cimelice
+37832;Cimer
+28533;Cirkvice u Kutne Hory
+25204;Cisovice
+51235;Cista u Horek
+56956;Cista u Litomysle
+29423;Cista u Mlade Boleslave
+27034;Cista u Rakovnika
+35756;Citice
+43902;Citoliby
+67101;Citonice
+27704;Citov
+33564;Cizkov u Blovic
+41112;Cizkovice
+39831;Cizova
+38481;Ckyne
+37861;Clunek
+56132;Cotkytle
+47154;Cvikov
+38001;Dacice
+59241;Dalecin
+67554;Dalesice
+36263;Dalovice
+69635;Damborice
+56123;Damnikov
+74717;Darkovice
+74802;Darkovicky
+53303;Dasice v Cechach
+25206;Davle
+66475;Deblin
+40501;Decin 1
+40502;Decin 2
+40503;Decin 3
+40505;Decin 5
+40704;Decin 6
+40711;Decin 9
+74794;Dehylov
+34023;Desenice
+37873;Desna u Dacic
+46861;Desna v Jizerskych horach
+67533;Desov
+37825;Destna u Jindrichova Hradce
+51791;Destne v Orlickych horach
+50724;Detenice
+73571;Detmarovice
+79303;Detrichov nad Bystrici
+46371;Detrichov u Frydlantu
+39127;Dirna
+69171;Divaky
+37348;Divcice
+25726;Divisov
+34042;Dlazov
+58834;Dlouha Brtnice
+29405;Dlouha Lhota u Mlade Boleslave
+78386;Dlouha Loucka
+56117;Dlouha Trebova
+34191;Dlouha Ves u Susice
+78976;Dlouhomilov
+46341;Dlouhy Most
+33443;Dnesice
+40703;Dobkovice u Decina
+37316;Dobra Voda u Ceskych Budejovic
+50773;Dobra Voda u Horic
+47121;Dobranov
+33441;Dobrany
+73952;Dobratice
+73951;Dobra
+25170;Dobrejovice
+50325;Dobrenice
+51793;Dobre
+33005;Dobric
+25229;Dobrichovice
+26301;Dobris
+33844;Dobriv
+40741;Dobrna
+79825;Dobromilice
+58812;Dobronin
+29441;Dobrovice
+51801;Dobruska
+67182;Dobsice
+50313;Dohalice
+41182;Doksany
+27364;Doksy u Kladna
+47201;Doksy
+55201;Dolany u Jaromere
+34016;Dolany u Klatov
+78316;Dolany u Olomouce
+75655;Dolni Becva
+33152;Dolni Bela
+74722;Dolni Benesov
+27701;Dolni Berkovice
+69617;Dolni Bojanovice
+29404;Dolni Bousov
+54362;Dolni Branna
+25241;Dolni Brezany
+37365;Dolni Bukovsko
+58845;Dolni Cerekev
+56153;Dolni Cermna
+29430;Dolni Cetno
+56102;Dolni Dobrouc
+73938;Dolni Domaslavice
+67141;Dolni Dubnany
+69185;Dolni Dunajovice
+38272;Dolni Dvoriste
+54342;Dolni Dvur
+26262;Dolni Hbity
+54374;Dolni Kalna
+66464;Dolni Kounice
+25768;Dolni Kralovice
+58271;Dolni Krupa u Havlickova Brodu
+76323;Dolni Lhota u Luhacovic
+74766;Dolni Lhota
+73982;Dolni Lomna
+59455;Dolni Loucky
+33444;Dolni Lukavice
+73553;Dolni Lutyne
+58233;Dolni Mesto
+68762;Dolni Nemci
+54375;Dolni Olesnice
+40755;Dolni Podluzi
+40782;Dolni Poustevna
+50316;Dolni Prim
+54911;Dolni Radechova
+53375;Dolni Redice
+53371;Dolni Roven
+59251;Dolni Rozinka
+35604;Dolni Rychnov
+29478;Dolni Slivno
+78820;Dolni Studenky
+38201;Dolni Trebonin
+75123;Dolni Ujezd u Lipnika nad Becvou
+56961;Dolni Ujezd u Litomysle
+69129;Dolni Vestonice
+40301;Dolni Zalezly
+35493;Dolni Zandov
+74756;Dolni Zivotice
+78356;Doloplazy
+67543;Domamil
+69683;Domanin
+25761;Domasin
+78306;Domasov nad Bystrici
+66483;Domasov u Brna
+75115;Domazelice u Prerova
+34401;Domazlice 1
+34402;Domazlice 2
+34403;Domazlice 3
+43968;Domousice
+29448;Domousnice
+73533;Doubrava
+67911;Doubravice nad Svitavou
+54451;Doubravice u Dvora Kralove nad Labem
+38735;Doubravice u Strakonic
+59261;Doubravnik
+51742;Doudleby nad Orlici
+33543;Dozice
+78343;Drahanovice
+79861;Drahany
+26285;Drahenice
+66424;Drasov
+34520;Drazenov
+39131;Drazice
+75114;Drevohostice
+27714;Drisy
+53305;Dritec
+37351;Driten
+35472;Drmoul
+69183;Drnholec
+67976;Drnovice u Lysic
+68304;Drnovice
+43144;Drouzkovice
+27362;Druzec
+33007;Druztova
+68322;Drysice
+46824;Drzkov
+78375;Dub nad Moravou
+38425;Dub u Prachatic
+47141;Duba
+54455;Dubenec u Dvora Kralove nad Labem
+41701;Dubi u Teplic 1
+41702;Dubi u Teplic 2
+41703;Dubi u Teplic 3
+78972;Dubicko
+26251;Dublovice
+69603;Dubnany
+37384;Dubne
+47126;Dubnice pod Ralskem
+41901;Duchcov
+67550;Dukovany-elektrarna
+67556;Dukovany
+58805;Dusejov
+79368;Dvorce u Bruntalu
+37808;Dvory nad Luznici
+54401;Dvur Kralove nad Labem 1
+54404;Dvur Kralove nad Labem 4
+67126;Dyjakovice
+28901;Dymokury
+37364;Dynin
+33002;Dysina
+75614;Francova Lhota
+40723;Frantiskov nad Ploucnici
+35101;Frantiskovy Lazne
+74401;Frenstat pod Radhostem
+73945;Frycovice
+73908;Frydek-Mistek 10
+73802;Frydek-Mistek 12
+73803;Frydek-Mistek 13
+73804;Frydek-Mistek 14
+73801;Frydek-Mistek 1
+73930;Frydek-Mistek 4
+73942;Frydek-Mistek 8
+73911;Frydlant nad Ostravici
+46401;Frydlant v Cechach
+46832;Frydstejn
+38279;Frymburk
+59204;Frysava pod Zakovou horou
+76316;Frystak
+74245;Fulnek 1
+74246;Fulnek 3
+58282;Golcuv Jenikov
+67156;Greslove Myto
+78373;Grygov
+46373;Habartice u Frydlantu
+35709;Habartov
+68302;Habrovany-Olsany
+58281;Habry
+41722;Haj u Duchcova
+74792;Haj ve Slezsku
+51205;Haje nad Jizerou
+54466;Hajnice
+76363;Halenkovice
+75603;Halenkov
+34816;Halze
+47128;Hamr u Ceske Lipy
+78833;Hanusovice
+51246;Harrachov v Krkonosich
+34181;Hartmanice
+67576;Hartvikovice
+74716;Hat u Hlucina
+73605;Havirov 11
+73606;Havirov 12
+73607;Havirov 13
+73601;Havirov 1
+73608;Havirov 21
+73602;Havirov 2
+73603;Havirov 3
+73564;Havirov 4
+73609;Havirov 7
+58223;Havlickova Borova
+58001;Havlickuv Brod 1
+58002;Havlickuv Brod 2
+58003;Havlickuv Brod 3
+54238;Havlovice nad Upou
+43501;Havran
+35132;Hazlov
+46362;Hejnice
+59201;Heralec pod Zakovou horou
+58255;Heralec u Havlickova Brodu
+55212;Hermanice nad Labem
+74238;Hermanice u Oder
+25789;Hermanicky
+59458;Hermanov u Velke Bitese
+33024;Hermanova Hut
+79374;Hermanovice
+53803;Hermanuv Mestec
+67169;Hevlin
+74247;Hladke Zivotice
+39173;Hlavatce
+53315;Hlavecnik
+74752;Hlavnice
+53901;Hlinsko v Cechach 1
+53962;Hlinsko v Cechach 3
+28532;Hlizov
+69143;Hlohovec u Breclave
+33827;Hlohovice
+74765;Hlubocec
+78361;Hlubocky 1
+78365;Hlubocky 3
+37341;Hluboka nad Vltavou
+67152;Hluboke Masuvky
+26222;Hlubos
+74801;Hlucin
+68725;Hluk
+50356;Hlusice
+56101;Hnatnice
+58294;Hnevkovice u Ledce nad Sazavou
+74735;Hnevosice
+78347;Hnevotin
+78311;Hnojice
+73953;Hnojnik
+27321;Hobsovice
+46342;Hodkovice nad Mohelkou
+67125;Hodonice
+69501;Hodonin 1
+69503;Hodonin 3
+69504;Hodonin 4
+69505;Hodonin 5
+67504;Hodov
+74271;Hodslavice
+34006;Hojsova Straz
+79371;Holcovice
+76901;Holesov
+53971;Holetin
+53401;Holice v Cechach
+33801;Holoubkov
+50751;Holovousy v Podkrkonosi
+68351;Holubice
+34562;Holysov
+43546;Hora Svate Kateriny
+43182;Hora Svateho sebestiana
+34101;Horazdovice
+39421;Horepnik
+27004;Horesedly
+38222;Horice na sumave
+50801;Horice v Podkrkonosi
+55205;Horicky
+50306;Horineves
+78335;Horka nad Moravou
+51234;Horka u Stare Paky
+54952;Horni Adrspach
+75657;Horni Becva
+79312;Horni Benesov
+41185;Horni Berkovice
+36237;Horni Blatna
+73937;Horni Bludovice
+53953;Horni Bradlo
+51236;Horni Branna
+33012;Horni Briza
+54474;Horni Brusnice
+39403;Horni Cerekev
+56156;Horni Cermna
+58852;Horni Dubenky
+67134;Horni Dunajovice
+38293;Horni Dvoriste
+56133;Horni Hermanice v Cechach
+53374;Horni Jeleni
+43543;Horni Jiretin
+28146;Horni Kruty
+47111;Horni Libchava u Ceske Lipy
+75612;Horni Lidec
+78305;Horni Lodenice
+54226;Horni Marsov
+79344;Horni Mesto
+75117;Horni Mostenice
+68764;Horni Nemci
+37831;Horni Pena
+38226;Horni Plana
+27703;Horni Pocaply
+40757;Horni Podluzi
+47106;Horni Police
+54946;Horni Radechova
+37843;Horni Radoun
+35731;Horni Slavkov
+79847;Horni stepanov
+37335;Horni Stropnice
+58264;Horni Studenec
+73535;Horni Sucha
+38491;Horni Vltavice
+25262;Horomerice
+26801;Horovice
+27003;Horovicky
+33455;Horsice
+34601;Horsovsky Tyn
+28573;Horusice
+34184;Hory Matky Bozi
+27322;Hospozin
+75622;Hostalkova u Vsetina
+79381;Hostalkovy u Krnova
+67171;Hosteradice
+68326;Hostice-Heroltice
+67154;Hostim
+54371;Hostinne
+25301;Hostivice
+41172;Hostka u Roudnice nad Labem
+41752;Hostomice nad Bilinou
+26724;Hostomice pod Brdy
+34525;Hostoun u Horsovskeho Tyna
+27353;Hostoun u Prahy
+28562;Hostovlice u Caslave
+75601;Hovezi
+69612;Hovorany
+67168;Hrabetice
+78804;Hrabisin
+74763;Hrabyne 1
+74767;Hrabyne 3
+68733;Hradcovice
+50011;Hradec Kralove 11
+50012;Hradec Kralove 12
+50311;Hradec Kralove 15
+50301;Hradec Kralove 16
+50001;Hradec Kralove 1
+50332;Hradec Kralove 22
+50002;Hradec Kralove 2
+50003;Hradec Kralove 3
+50004;Hradec Kralove 4
+50005;Hradec Kralove 5
+50006;Hradec Kralove 6
+50341;Hradec Kralove 7
+50008;Hradec Kralove 8
+50009;Hradec Kralove 9
+74741;Hradec nad Moravici
+56901;Hradec nad Svitavou
+33211;Hradec u Stoda
+46334;Hradek nad Nisou
+73997;Hradek nad Olsi
+33842;Hradek u Rokycan
+34141;Hradek u Susice
+67127;Hradek u Znojma
+34172;Hradesice
+25209;Hradistko pod Mednikem
+35124;Hranice u Ase
+75301;Hranice 1
+75361;Hranice 4
+39854;Hrazanky
+73999;Hrcava
+37361;Hrdejovice
+27345;Hrebec
+27008;Hredle
+39859;Hrejkovice
+40717;Hrensko
+54456;Hribojedy
+26214;Hrimezdice
+43904;Hriskov
+43965;Hrivice
+41183;Hrobce
+41757;Hrobcice
+41704;Hrob
+53862;Hrochuv Tynec
+33004;Hromnice
+54931;Hronov 1
+54934;Hronov 4
+67555;Hrotovice
+36233;Hroznetin
+69663;Hroznova Lhota
+69673;Hruba Vrbka
+69156;Hrusky
+56555;Hrusova u Vysokeho Myta
+67167;Hrusovany nad Jevisovkou
+66462;Hrusovany u Brna
+43143;Hrusovany u Chomutova
+26703;Hudlice
+73946;Hukvaldy
+76824;Hulin
+39601;Humpolec
+46834;Huntirov nad Jizerou
+38421;Husinec
+75602;Huslenky
+75366;Hustopece nad Becvou
+69301;Hustopece u Brna
+75662;Hutisko-Solanec
+46826;Hut
+79357;Huzova
+33153;Hvozd u Plas
+79855;Hvozd u Prostejova
+26244;Hvozdany
+25205;Hvozdnice
+26706;Hyskov
+40317;Chabarovice
+34152;Chanovice
+78374;Charvaty
+43157;Chbany
+41173;Chcebuz
+35001;Cheb 1
+35002;Cheb 2
+35003;Cheb 3
+35004;Cheb 4
+35005;Cheb 5
+33806;Cheznovice
+74732;Chlebicov
+51745;Chleny
+35754;Chlum Svate Mari
+37804;Chlum u Trebone
+43903;Chlumcany u Loun
+33442;Chlumcany u Prestic
+50351;Chlumec nad Cidlinou
+40339;Chlumec u Usti nad Labem
+27743;Chlumin
+56501;Chocen 1
+56502;Chocen 2
+25724;Chocerady
+41171;Chodouny
+35735;Chodov u Karlovych Var 1
+35736;Chodov u Karlovych Var 2
+34813;Chodova Plana
+34811;Chodsky Ujezd
+78322;Cholina
+53361;Choltice
+50753;Chomutice u Horic v Podkrkonosi
+43001;Chomutov 1
+43002;Chomutov 2
+43003;Chomutov 3
+43004;Chomutov 4
+43005;Chomutov 5
+56942;Chornice
+27737;Chorusice
+75642;Choryne
+58301;Chotebor
+73561;Chotebuz
+33214;Chotesov
+29428;Chotetov
+54376;Chotevice
+33017;Chotikov
+39137;Chotoviny
+28576;Chotusice
+37362;Chotycany u Ceskych Budejovic
+46333;Chotyne
+25728;Chotysany
+54442;Choustnikovo Hradiste
+39118;Choustnik
+43922;Chozov
+53851;Chrast u Chrudime
+33003;Chrast u Plzne
+37304;Chrastany u Tyna nad Vltavou
+46331;Chrastava
+26283;Chrastice
+39817;Chrestovice
+40744;Chribska
+33143;Chric
+38404;Chroboly
+76811;Chropyne
+53863;Chroustovice
+53701;Chrudim 1
+53703;Chrudim 3
+53705;Chrudim 5
+34014;Chudenice
+78321;Chudobin
+74724;Chuchelna
+76872;Chvalcov
+54211;Chvalec
+33205;Chvalenice
+53312;Chvaletice
+39493;Chvalkov u Kamenice nad Lipou
+55204;Chvalkovice v Cechach
+67123;Chvalovice
+38208;Chvalsiny
+26707;Chynava
+39155;Chynov
+36453;Chyse
+39853;Chysky
+66491;Ivancice
+68323;Ivanovice na Hane
+29445;Jabkenice
+51243;Jablonec nad Jizerou
+46601;Jablonec nad Nisou 1
+46602;Jablonec nad Nisou 2
+46604;Jablonec nad Nisou 4
+46605;Jablonec nad Nisou 5
+46606;Jablonec nad Nisou 6
+46804;Jablonec nad Nisou 7
+46801;Jablonec nad Nisou 8
+25746;Jablonna nad Vltavou
+56164;Jablonne nad Orlici
+47125;Jablonne v Podjestedi
+75623;Jablunka nad Becvou
+73991;Jablunkov
+36251;Jachymov
+74753;Jakartovice
+74236;Jakubcovice nad Odrou
+68705;Jalubi
+56165;Jamne nad Orlici
+58827;Jamne u Jihlavy
+59232;Jamy
+25703;Jankov
+46811;Janov nad Nisou
+79384;Janov u Krnova
+56955;Janov u Litomysle
+34021;Janovice nad Uhlavou
+73902;Janovice u Frydku-Mistku
+79342;Janovice u Rymarova
+54225;Janske Lazne
+76801;Jarohnevice
+55101;Jaromer 1
+55102;Jaromer 3
+55104;Jaromer 4
+67551;Jaromerice nad Rokytnou
+56944;Jaromerice u Jevicka
+67128;Jaroslavice
+37841;Jarosov nad Nezarkou
+56966;Jarosov u Litomysle
+76313;Jasenna u Vizovic
+55222;Jasenna
+34003;Javorna na sumave
+51711;Javornice
+79070;Javornik u Jeseniku
+78992;Jedli
+56991;Jedlova u Policky
+67906;Jedovnice
+67531;Jemnice
+25261;Jenec
+50345;Jenikovice
+53864;Jenisovice u Chrudime
+46833;Jenisovice u Jablonce nad Nisou
+36211;Jenisov
+25073;Jenstejn
+50776;Jerice
+58274;Jerisno
+58825;Jersin
+79853;Jesenec
+25242;Jesenice u Prahy
+27033;Jesenice u Rakovnika
+26294;Jesenice u Sedlcan
+74233;Jesenik nad Odrou
+79001;Jesenik 1
+79003;Jesenik 3
+51212;Jesenny
+47161;Jestrebi
+39848;Jetetice
+40716;Jetrichovice u Decina
+28166;Jevany
+56943;Jevicko
+67153;Jevisovice
+75135;Jezernice
+69648;Jezov
+47108;Jezve
+50601;Jicin 1
+50605;Jicin 5
+50731;Jicineves
+58601;Jihlava 1
+58602;Jihlava 2
+58603;Jihlava 3
+58604;Jihlava 4
+58605;Jihlava 5
+58606;Jihlava 6
+51401;Jilemnice
+40701;Jilove u Decina
+25401;Jilove u Prahy
+51772;Jilovice u Dobrusky
+37332;Jilovice u Trhovych Svin
+25202;Jiloviste
+59242;Jimramov
+66472;Jinacovice
+26223;Jince
+79383;Jindrichov u Krnova
+78823;Jindrichov u sumperka
+46366;Jindrichovice pod Smrkem
+35705;Jindrichovice v Krusnych horach
+37701;Jindrichuv Hradec 1
+37702;Jindrichuv Hradec 2
+37704;Jindrichuv Hradec 4
+37705;Jindrichuv Hradec 5
+25225;Jinocany
+40756;Jiretin pod Jedlovou
+67178;Jirice u Miroslavi
+40753;Jirikov
+43111;Jirkov 1
+43112;Jirkov 2
+43113;Jirkov 3
+25090;Jirny
+39133;Jistebnice
+74282;Jistebnik
+29414;Jivina u Mnichova Hradiste
+54213;Jivka
+78398;Jivova
+46844;Josefuv Dul u Jablonce nad Nisou
+29307;Josefuv Dul u Mlade Boleslave
+27304;Kacice
+28509;Kacov
+43201;Kadan 1
+43202;Kadan 2
+38733;Kadov u Blatne
+38221;Kajov
+43132;Kalek
+39451;Kaliste
+25707;Kamberk
+58242;Kamen u Habru
+39413;Kamen u Pacova
+39470;Kamenice nad Lipou
+58823;Kamenice u Jihlavy
+25168;Kamenice
+47114;Kamenicky senov
+53941;Kamenicky
+58292;Kamenna Lhota
+27301;Kamenne Zehrovice
+25282;Kamenny Privoz
+37381;Kamenny Ujezd
+26263;Kamyk nad Vltavou
+38241;Kaplice 1
+38242;Kaplice 2
+50366;Karanice
+25075;Karany
+37821;Kardasova Recice
+33807;Karez
+79324;Karlova Studanka
+51262;Karlovice u Turnova
+79323;Karlovice
+36010;Karlovy Vary 10
+36017;Karlovy Vary 17
+36018;Karlovy Vary 18
+36001;Karlovy Vary 1
+36020;Karlovy Vary 20
+36002;Karlovy Vary 2
+36004;Karlovy Vary 4
+36005;Karlovy Vary 5
+36006;Karlovy Vary 6
+36007;Karlovy Vary 7
+36009;Karlovy Vary 9
+26718;Karlstejn
+75605;Karolinka
+73311;Karvina 11
+73312;Karvina 12
+73301;Karvina 1
+73503;Karvina 3
+73310;Karvina 41
+73401;Karvina 4
+73309;Karvina 61
+73506;Karvina 6
+73306;Karvina 8
+73573;Karvina 9
+76319;Kasava
+33544;Kasejovice
+34192;Kasperske Hory
+38711;Katovice
+29425;Katusice
+33151;Kaznejov
+34506;Kdyne
+41122;Keblice
+39452;Kejzlice
+79808;Kelcice
+75643;Kelc
+39821;Kestrany
+66485;Ketkovice
+33841;Klabava
+79854;Kladky
+27201;Kladno 1
+27202;Kladno 2
+27203;Kladno 3
+27204;Kladno 4
+27205;Kladno 5
+27206;Kladno 6
+27309;Kladno 7
+27208;Kladno 8
+27209;Kladno 9
+53314;Kladruby nad Labem
+34961;Kladruby u Stribra
+25762;Kladruby u Vlasimi
+41116;Klapy
+29415;Klaster Hradiste nad Jizerou
+43151;Klasterec nad Ohri 1
+43152;Klasterec nad Ohri 2
+56182;Klasterec nad Orlici
+33901;Klatovy 1
+33902;Klatovy 2
+33903;Klatovy 3
+33904;Klatovy 4
+25067;Klecany
+34534;Klenci pod Cerchovem
+79823;Klenovice na Hane
+37805;Klikov
+74284;Klimkovice-lazne
+74283;Klimkovice
+69172;Klobouky u Brna
+27374;Klobuky v Cechach
+26235;Klucenice
+28545;Kluky u Kutne Hory
+39819;Kluky u Pisku
+27741;Kly
+69664;Knezdub
+27001;Knezeves u Rakovnika
+28902;Knezice u Mestce Kralove
+67529;Knezice u Trebice
+29402;Knezmost
+67934;Kninice u Boskovic
+74727;Koberice
+39459;Koberovice
+69110;Kobyli na Morave
+54464;Kocbere
+53861;Koci
+56911;Koclirov u Svitav
+39409;Kojcice
+67523;Kojetice na Morave
+25072;Kojetice u Prahy
+75201;Kojetin
+27723;Kokorin
+75105;Kokory
+27329;Kolec
+27002;Kolesovice
+28001;Kolin 1
+28002;Kolin 2
+28003;Kolin 3
+34142;Kolinec
+36214;Kolova
+34543;Kolovec
+37314;Komarice
+26762;Komarov u Horovic
+73954;Komorni Lhotka
+28125;Konarovice
+50705;Konecchlumi
+67502;Konesin
+79852;Konice
+34952;Konstantinovy Lazne
+50732;Kopidlno
+74221;Koprivnice 1
+74223;Koprivnice 3
+46849;Korenov
+26206;Korkyne
+56993;Korouhev
+76805;Korycany
+68752;Korytna
+39422;Kosetice
+39117;Kosice u Sobeslave
+50365;Kosicky
+28935;Kosik
+29306;Kosmonosy
+26291;Kosova Hora
+51202;Kostalov
+41723;Kostany u Teplic
+79841;Kostelec na Hane
+28163;Kostelec nad Cernymi lesy
+27713;Kostelec nad Labem
+51741;Kostelec nad Orlici
+39858;Kostelec nad Vltavou
+76843;Kostelec u Holesova
+58861;Kostelec u Jihlavy
+69651;Kostelec u Kyjova
+34962;Kostelec u Stribra
+29476;Kostelni Hlavno
+43921;Kostice nad Ohri
+69152;Kostice u Breclave
+28921;Kostomlaty nad Labem
+41754;Kostomlaty pod Milesovkou
+67907;Kotvrdovice
+28915;Kounice
+51792;Kounov u Dobrusky
+27006;Kounov u Rakovnika
+28161;Kourim
+34502;Kout na sumave
+67508;Kouty u Trebice
+39855;Kovarov
+43186;Kovarska
+33144;Kozlany
+58293;Kozli
+73947;Kozlovice
+25725;Kozmice u Benesova
+74711;Kozmice u Hlucina
+33142;Kozojedy u Kralovic
+33032;Kozolupy
+78378;Kozusany-Tazaly
+41187;Krabcice u Roudnice nad Labem
+35708;Krajkova
+28127;Krakovany v Cechach
+79812;Kralice na Hane
+67572;Kralice nad Oslavou
+56169;Kraliky
+54203;Kralovec
+33141;Kralovice
+35741;Kralovske Porici
+27801;Kralupy nad Vltavou 1
+27803;Kralupy nad Vltavou 3
+26701;Kraluv Dvur u Berouna
+67577;Kramolin-vodni dilo
+68307;Krasensko
+35801;Kraslice
+26256;Krasna Hora nad Vltavou
+58234;Krasna Hora u Havlickova Brodu
+40746;Krasna Lipa u Rumburka
+35122;Krasna
+35747;Krasno nad Teplou
+43972;Krasny Dvur
+58864;Krasonice
+79394;Krasov
+50324;Kratonohy
+47103;Kravare u Ceske Lipy
+74721;Kravare u Hlucina
+67151;Kravsko
+25748;Krecovice
+39495;Krec
+39445;Krelovice u Pelhrimova
+78336;Krelov-Bruchotin
+38203;Kremze
+75141;Krenovice u Kojetina
+68352;Krenovice u Slavkova
+56922;Krenov
+69165;Krepice u Hustopeci
+28547;Kresetice
+41148;Kresice
+39424;Kresin u Pacova
+67962;Kretin
+25742;Krhanice
+28933;Krinec
+27023;Krivoklat
+25766;Krivsoudov
+68357;Krizanovice u Bucovic
+59451;Krizanov
+46353;Krizany
+73924;Krmelin
+79401;Krnov 1
+79402;Krnov 2
+29431;Krnsko
+76701;Kromeriz 1
+76702;Kromeriz 2
+76703;Kromeriz 3
+76704;Kromeriz 4
+47157;Krompach v Cechach
+29479;Kropacova Vrutice
+53943;Krouna
+59454;Krovi
+33039;Krsy
+67905;Krtiny
+58266;Krucemburk
+69173;Krumvir
+27009;Krupa
+41742;Krupka 1
+41741;Krupka 3
+27053;Krusovice
+74786;Kruzberk
+43981;Kryry
+38403;Ktis
+26741;Kublov
+68331;Kucerov
+39834;Kucer
+74244;Kujavy
+54443;Kuks
+54361;Kuncice nad Labem
+73913;Kuncice pod Ondrejnikem
+56924;Kuncina
+74253;Kunin
+68604;Kunovice
+47155;Kunratice u Cvikova
+67972;Kunstat na Morave
+56181;Kunvald v Cechach
+37862;Kunzak
+66434;Kurim
+28401;Kutna Hora 1
+28403;Kutna Hora 3
+28404;Kutna Hora 4
+28406;Kutna Hora 6
+76821;Kvasice
+51702;Kvasiny
+68766;Kvetna
+38493;Kvilda
+69701;Kyjov 1
+69655;Kyjov 3
+74768;Kyjovice
+35751;Kynsperk nad Ohri
+36272;Kyselka
+33001;Kysice
+40745;Kytlice
+69146;Ladna
+41725;Lahost
+54341;Lanov
+56301;Lanskroun
+53331;Lany na Dulku
+27061;Lany
+69151;Lanzhot
+37801;Lasenice
+79857;Laskov
+66476;Lazanky
+38432;Laziste
+50781;Lazne Belohrad
+53341;Lazne Bohdanec
+35491;Lazne Kynzvart
+46364;Lazne Libverda
+25089;Lazne Tousen
+29447;Ledce u Mlade Boleslavi
+33014;Ledce u Plzne
+27708;Ledcice
+58401;Ledec nad Sazavou
+37311;Ledenice
+69144;Lednice na Morave
+41772;Ledvice
+67163;Lechovice
+66431;Lelekovice
+43923;Lenesice
+38442;Lenora
+79842;Lesany u Prostejova
+39414;Leskovice
+75641;Lesna
+67544;Lesonice
+58286;Lestina u Svetle nad Sazavou
+78971;Lestina u Zabreha
+34954;Lestkov
+33552;Letiny
+56151;Letohrad
+68335;Letonice u Vyskova
+67961;Letovice
+38402;Lhenice
+50327;Lhota pod Libcany
+51744;Lhoty u Potstejna
+50723;Liban
+35753;Libavske Udoli
+35131;Liba
+50322;Libcany
+43926;Libceves
+25266;Libcice nad Vltavou
+27721;Libechov
+38772;Libejovice
+46010;Liberec 10
+46011;Liberec 11
+46012;Liberec 12
+46013;Liberec 13
+46014;Liberec 14
+46015;Liberec 15
+46001;Liberec 1
+46312;Liberec 25
+46002;Liberec 2
+46311;Liberec 30
+46302;Liberec 33
+46003;Liberec 3
+46004;Liberec 4
+46005;Liberec 5
+46006;Liberec 6
+46007;Liberec 7
+46008;Liberec 8
+51712;Liberk
+41146;Libesice u Litomeric
+43963;Libesice u Zatce
+25065;Libeznice
+56116;Libchavy
+28907;Libice nad Cidlinou
+58277;Libice nad Doubravou
+78805;Libina
+27717;Libis
+39462;Libkova Voda
+54236;Libnatov
+43975;Libocany
+41103;Libochovany
+41117;Libochovice
+50744;Libosovice
+40335;Libouchec
+50344;Librice
+51203;Libstat
+50715;Libun
+27306;Libusin
+53823;Liciborice
+51735;Licno
+75615;Lidecko
+27354;Lidice
+56168;Lichkov
+79315;Lichnov u Bruntalu
+74275;Lichnov u Noveho Jicina
+47158;Lindava
+33021;Line
+58257;Lipa u Havlickova Brodu
+58232;Lipnice nad Sazavou
+75131;Lipnik nad Becvou
+67552;Lipnik u Hrotovic
+38278;Lipno nad Vltavou
+53364;Lipoltice
+40781;Lipova u sluknova
+79061;Lipova-lazne 1
+79063;Lipova-lazne 3
+67915;Lipovec u Blanska
+69672;Lipov
+75631;Liptal
+79396;Liptan
+67922;Lipuvka
+27052;Lisany u Rakovnika
+59245;Lisek u Bystrice nad Pernstejnem
+56184;Lisnice
+37372;Lisov u Ceskych Budejovic
+33035;Listany
+76813;Litencice
+26727;Liten
+67166;Litobratrice
+67546;Litohor
+41201;Litomerice 1
+41203;Litomerice 3
+57001;Litomysl
+78401;Litovel
+74755;Litultovice
+43601;Litvinov 1
+43603;Litvinov 3
+43604;Litvinov 4
+43606;Litvinov 6
+43514;Litvinov 7
+43542;Litvinov 8
+38742;Lnare
+27736;Lobec
+40784;Lobendava
+37322;Locenice
+26712;Lodenice u Berouna
+67175;Lodenice u Moravskeho Krumlova
+37826;Lodherov
+26723;Lochovice
+35733;Loket
+43511;Lom u Mostu 1
+43512;Lom u Mostu 2
+37816;Lomnice nad Luznici
+51251;Lomnice nad Popelkou
+79302;Lomnice u Rymarova
+35704;Lomnice u Sokolova
+67923;Lomnice u Tisnova
+78983;Lostice
+28937;Loucen
+34510;Loucim
+75644;Loucka u Valasskeho Mezirici
+78811;Loucna nad Desnou
+38276;Loucovice
+69676;Louka nad Velickou
+43533;Louka u Litvinova
+76875;Loukov u Kromerize
+29411;Loukov u Mnichova Hradiste
+25706;Lounovice pod Blanikem
+44001;Louny 1
+44003;Louny 3
+44004;Louny 4
+46823;Louznice
+69639;Lovcice u Kyjova
+50361;Lovcice u Noveho Bydzova
+41001;Lovosice 1
+41002;Lovosice 2
+43983;Lubenec
+56963;Lubna u Policky
+27036;Lubna u Rakovnika
+35137;Luby u Chebu
+46871;Lucany nad Nisou
+58235;Lucice
+73939;Lucina
+74714;Ludgerovice
+40713;Ludvikovice
+76326;Luhacovice
+58822;Luka nad Jihlavou
+39426;Lukavec u Pacova
+51603;Lukavice
+76317;Lukov u Zlina
+68303;Lulec
+29442;Lustenice
+78349;Lutin
+50305;Luzany nad Trotinou
+50706;Luzany u Jicina
+33454;Luzany u Prestic
+50362;Luzec nad Cidlinou
+27706;Luzec nad Vltavou
+53854;Luze
+69618;Luzice u Hodonina
+43524;Luzice u Mostu
+27051;Luzna v Cechach
+28922;Lysa nad Labem
+67971;Lysice
+54963;Machov
+37803;Majdalena
+75106;Majetin
+79336;Mala Moravka
+46831;Mala Skala
+54227;Mala Upa
+79849;Male Hradisko
+54234;Male Svatonovice
+40327;Malecov u Usti nad Labem
+58276;Malec
+38706;Malenice nad Volynkou
+66465;Malesovice
+28541;Malesov
+27377;Malikovice
+38291;Malonty
+39175;Malsice
+34171;Maly Bor
+33162;Manetin
+47156;Marenice
+35301;Marianske Lazne 1
+35302;Marianske Lazne 2
+35304;Marianske Lazne 4
+43532;Marianske Radcice
+40742;Markvartice u Decina
+50742;Markvartice u Sobotky
+25755;Marsovice
+51232;Martinice v Krkonosich
+54973;Martinkovice
+43156;Mastov
+28936;Mcely
+29477;Meceriz
+38736;Mecichov
+34037;Mecin
+34521;Meclov
+43184;Medenec
+53831;Medlesice
+78382;Medlov u Unicova
+68741;Medlovice
+33551;Mecholupy u Blovic
+43931;Mecholupy u Zatce
+74784;Melc
+27738;Melnicke Vtelno
+27601;Melnik 1
+27603;Melnik 3
+27604;Melnik 4
+50364;Menik
+66457;Menin
+59442;Merin
+36234;Merklin u Karlovych Var
+33452;Merklin u Prestic
+75142;Merovice nad Hanou
+25064;Mesice u Prahy
+28903;Mestec Kralove
+56941;Mestecko Trnavka
+79395;Mesto Albrechtice
+78307;Mesto Libava
+33033;Mesto Touskov
+73949;Metylovice
+43513;Mezibori u Litvinova
+54923;Mezilesi
+54981;Mezimesti u Broumova 1
+54983;Mezimesti u Broumova 3
+54982;Mezimesti u Broumova 4
+40779;Mikulasovice
+69619;Mikulcice
+69201;Mikulov na Morave
+79084;Mikulovice u Jeseniku 1
+79083;Mikulovice u Jeseniku 3
+67133;Mikulovice u Znojma
+34546;Milavce
+26234;Milesov nad Vltavou
+41132;Milesov u Lovosic
+50771;Miletin
+39901;Milevsko 1
+39903;Milevsko 3
+25786;Milicin
+73981;Milikov u Jablunkova
+26231;Milin
+68336;Milonice u Vyskova
+27005;Milostin
+75367;Milotice nad Becvou
+69605;Milotice u Kyjova
+28923;Milovice nad Labem 1
+28924;Milovice nad Labem 3
+50774;Milovice u Horic
+69188;Milovice u Mikulova
+47124;Mimon
+53955;Miretice u Hlinska
+34553;Mirkov
+67172;Miroslav
+33843;Mirosov 1
+33847;Mirosov 2
+39801;Mirotice
+51254;Mirova pod Kozakovem
+39806;Mirovice
+78953;Mirov
+76852;Miskovice u Holesova
+28501;Miskovice u Kutne Hory
+43158;Misto
+29301;Mlada Boleslav 1
+29302;Mlada Boleslav 2
+29303;Mlada Boleslav 3
+29305;Mlada Boleslav 5
+39143;Mlada Vozice
+39443;Mlade Briste
+54223;Mlade Buky
+74754;Mladecko
+56935;Mladejov na Morave
+50745;Mladejov v Cechach
+78395;Mladejovice u sternberka
+56167;Mladkov
+33161;Mladotice
+50758;Mlazovice
+33811;Mlecice
+35483;Mnichov u Marianskych Lazni
+25164;Mnichovice
+29501;Mnichovo Hradiste
+39492;Mnich
+25210;Mnisek pod Brdy
+46322;Mnisek u Liberce
+41713;Modlany
+40702;Modra u Decina
+66442;Modrice
+29413;Mohelnice nad Jizerou
+78985;Mohelnice
+67575;Mohelno
+25087;Mochov
+34032;Mochtin
+66409;Mokra-cementarna
+66404;Mokra
+74762;Mokre Lazce
+35121;Mokriny
+41781;Moldava v Krusnych horach
+53802;Morasice u Chrudime
+56951;Morasice u Litomysle
+66448;Moravany u Brna
+53372;Moravany u Holic
+69650;Moravany u Kyjova
+59254;Moravec
+78982;Moravicany
+73905;Moravka
+69155;Moravska Nova Ves
+57101;Moravska Trebova 1
+56921;Moravska Trebova 3
+67601;Moravske Budejovice 1
+67602;Moravske Budejovice 2
+68327;Moravske Prusy
+79305;Moravsky Beroun
+67201;Moravsky Krumlov
+69685;Moravsky Pisek
+69101;Moravsky Zizkov
+79828;Morice
+26717;Morina
+76833;Morkovice-Slizany
+74272;Morkov
+74251;Mosnov
+43410;Most 10
+43411;Most 11
+43401;Most 1
+43403;Most 3
+43404;Most 4
+43405;Most 5
+43406;Most 6
+43502;Most 9
+54475;Mostek
+79802;Mostkovice
+73998;Mosty u Jablunkova
+66455;Moutnice
+58854;Mrakotin
+34501;Mrakov
+25063;Mratin
+51204;Mricna
+27064;Msec
+41119;Msene-lazne
+27735;Mseno u Melnika
+25162;Mukarov
+27007;Mutejovice
+69611;Mutenice
+37349;Mydlovary
+79805;Myslejovice
+67560;Mysliborice
+34154;Mysliv
+39116;Myslkovice
+76301;Myslocovice
+33805;Myto v Cechach
+25708;Naceradec
+39852;Nadejkov
+54907;Nahorany nad Metuji
+25747;Nahoruby
+54701;Nachod 1
+54703;Nachod 3
+54702;Nachod 4
+78332;Naklo
+26293;Nalzovice
+34173;Nalzovske Hory
+78344;Namest na Hane
+67571;Namest nad Oslavou
+76361;Napajedla
+53825;Nasavrky
+69636;Nasedlovice
+73992;Navsi
+38401;Nebahovy
+35112;Nebanice
+27734;Nebuzely
+26213;Necin
+33163;Nectiny
+68715;Nedachlebice
+68738;Nedakonice
+76332;Nedasov
+59262;Nedvedice
+25081;Nehvizdy
+50315;Nechanice
+26254;Nechvalice
+36221;Nejdek 1
+36222;Nejdek 2
+56163;Nekor
+33547;Nekvasovy
+27751;Nelahozeves
+34536;Nemanice
+79827;Nemcice nad Hanou
+67951;Nemcice u Boskovic
+56118;Nemcice u Ceske Trebove
+69107;Nemcicky u Breclavi
+66466;Nemcicky u Zidlochovic
+54461;Nemojov u Dvora Kralove nad Labem
+68334;Nemotice
+74774;Neplachovice
+50363;Nepolisy
+28511;Nepomerice
+33501;Nepomuk 1
+33503;Nepomuk 3
+43971;Nepomysl
+27711;Neratovice
+66416;Neslovice
+68333;Nesovice
+59443;Netin
+38411;Netolice
+25744;Netvorice
+33555;Neurazy
+25785;Neustupov
+25756;Neveklov
+34167;Nezamyslice u Horazdovic
+79826;Nezamyslice u Prostejova
+68732;Nezdenice
+34164;Nezdice na sumave
+37302;Neznasov
+33204;Nezvestice
+68751;Nivnice
+26705;Nizbor
+68356;Nizkovice
+59212;Nizkov
+69164;Nosislav
+73909;Nosovice
+37833;Nova Bystrice
+39415;Nova Cerekev
+78384;Nova Hradecna
+69675;Nova Lhota u Veseli nad Moravou
+50901;Nova Paka
+38462;Nova Pec
+58865;Nova Rise
+36225;Nova Role
+37842;Nova Vcelnice
+37809;Nova Ves nad Luznici
+46827;Nova Ves nad Nisou
+51271;Nova Ves nad Popelkou
+26204;Nova Ves pod Plesi
+37315;Nova Ves u Ceskych Budejovic
+58273;Nova Ves u Chotebore
+27752;Nova Ves u Melnika
+66413;Nova Ves u Oslavan
+43545;Nova Ves v Horach
+28531;Nove Dvory u Kutne Hory
+36224;Nove Hamry
+53945;Nove Hrady u Skutce
+37333;Nove Hrady v jiznich Cechach
+68342;Nove Hvezdlice
+59231;Nove Mesto na Morave
+54901;Nove Mesto nad Metuji 1
+54902;Nove Mesto nad Metuji 3
+46365;Nove Mesto pod Smrkem
+33563;Nove Mitrovice
+35734;Nove Sedlo u Lokte
+27101;Nove Straseci
+67541;Nove Syrovice
+59214;Nove Veseli
+41731;Novosedlice
+69182;Novosedly na Morave
+37817;Novosedly nad Nezarkou
+47301;Novy Bor
+50401;Novy Bydzov
+54922;Novy Hradek
+75604;Novy Hrozenkov
+74101;Novy Jicin 1
+74103;Novy Jicin 3
+74257;Novy Jicin 6
+26203;Novy Knin
+35136;Novy Kostel
+78803;Novy Malin
+47113;Novy Oldrichov
+39404;Novy Rychnov
+25216;Nucice
+73996;Nydek
+28801;Nymburk 1
+28802;Nymburk 2
+28803;Nymburk 3
+33023;Nyrany
+34022;Nyrsko
+26221;Obecnice
+26212;Oboriste
+39412;Obratan
+27742;Obristvi
+43521;Obrnice
+29403;Obruby
+43987;Ocihov
+25704;Odlochovice
+25070;Odolena Voda
+74235;Odry
+28130;Ohare
+41765;Ohnic
+51784;Ohnisov
+50354;Ohnistany
+66402;Ochoz u Brna
+47162;Okna
+67521;Okrisky
+58231;Okrouhlice
+67176;Olbramovice u Moravskeho Krumlova
+25752;Olbramovice u Votic
+41724;Oldrichov u Duchcova
+46323;Oldrichov v Hajich
+74733;Oldrisov
+67162;Oleksovice
+28162;Oleska u Ceskeho Brodu
+26764;Olesna u Horovic
+67974;Olesnice na Morave
+37331;Olesnice u Ceskych Budejovic
+51736;Olesnice u Rychnova nad Kneznou
+51783;Olesnice v Orlickych horach
+37350;Olesnik
+77010;Olomouc 10
+77012;Olomouc 12
+78351;Olomouc 15
+78371;Olomouc 17
+78301;Olomouc 18
+78302;Olomouc 19
+77100;Olomouc 1
+77200;Olomouc 2
+77300;Olomouc 3
+77400;Olomouc 4
+77500;Olomouc 5
+77008;Olomouc 8
+77900;Olomouc 9
+67903;Olomucany
+35707;Olovi
+27326;Olovnice
+79814;Olsany u Prostejova
+78962;Olsany u sumperka
+25165;Ondrejov
+39161;Oparany
+67528;Opatov na Morave
+56912;Opatov v Cechach
+53345;Opatovice nad Labem
+75356;Opatovice u Hranic
+74610;Opava 10
+74603;Opava 11
+74601;Opava 1
+74702;Opava 2
+74604;Opava 4
+74705;Opava 5
+74706;Opava 6
+74707;Opava 7
+74608;Opava 8
+74770;Opava 9
+28904;Opocnice
+51773;Opocno
+27032;Oracov
+66444;Orechov u Brna
+59452;Orechov u Velkeho Mezirici
+56111;Orlicke Podhuri
+51764;Orlicke Zahori
+56155;Orlicky
+39807;Orlik nad Vltavou
+73511;Orlova 1
+73513;Orlova 3
+73514;Orlova 4
+73516;Orlova 6
+68325;Orlovice
+46352;Osecna
+75122;Osek nad Becvou
+41705;Osek u Duchcova
+33821;Osek u Rokycan
+33546;Oselce
+34957;Oselin
+50326;Osice
+56967;Osik u Litomysle
+78801;Oskava
+28932;Oskorinek
+66412;Oslavany
+39835;Oslov
+79399;Osoblaha
+59453;Osova Bityska
+26725;Osov
+66449;Ostopovice
+71000;Ostrava 10
+71100;Ostrava 11
+71200;Ostrava 12
+71300;Ostrava 13
+71500;Ostrava 15
+71600;Ostrava 16
+71700;Ostrava 17
+71800;Ostrava 18
+71900;Ostrava 19
+70100;Ostrava 1
+72000;Ostrava 20
+72100;Ostrava 21
+72200;Ostrava 22
+72300;Ostrava 23
+72400;Ostrava 24
+72525;Ostrava 25
+72526;Ostrava 26
+72527;Ostrava 27
+72528;Ostrava 28
+72529;Ostrava 29
+70200;Ostrava 2
+70030;Ostrava 30
+70032;Ostrava 32
+70033;Ostrava 33
+70034;Ostrava 34
+70035;Ostrava 35
+70036;Ostrava 36
+70037;Ostrava 37
+70039;Ostrava 39
+70300;Ostrava 3
+70040;Ostrava 40
+70041;Ostrava 41
+70042;Ostrava 42
+70043;Ostrava 43
+70044;Ostrava 44
+70045;Ostrava 45
+70046;Ostrava 46
+70047;Ostrava 47
+70400;Ostrava 4
+70500;Ostrava 5
+70700;Ostrava 7
+70800;Ostrava 8
+70900;Ostrava 9
+73914;Ostravice
+50752;Ostromer
+36301;Ostrov nad Ohri
+59445;Ostrov nad Oslavou
+56122;Ostrov u Lanskrouna
+67914;Ostrov u Macochy
+66481;Ostrovacice
+39833;Ostrovec
+68723;Ostrozska Lhota
+68722;Ostrozska Nova Ves
+68742;Osvetimany
+34544;Osvracin
+79806;Otaslavice
+74781;Otice
+68354;Otnice
+54972;Otovice u Broumova
+36232;Otovice u Karlovych Var
+36463;Otrocin
+76501;Otrokovice 1
+76502;Otrokovice 2
+27327;Otvovice
+58224;Oudolen
+28543;Pabenice
+34153;Pacejov
+76834;Paclavice
+39501;Pacov
+73941;Palkovice
+43905;Panensky Tynec
+53012;Pardubice 12
+53351;Pardubice 17
+53353;Pardubice 19
+53001;Pardubice 1
+53354;Pardubice 20
+53301;Pardubice 21
+53333;Pardubice 23
+53002;Pardubice 2
+53003;Pardubice 3
+53004;Pardubice 4
+53005;Pardubice 5
+53006;Pardubice 6
+53007;Pardubice 7
+53009;Pardubice 9
+75355;Parsovice
+78397;Paseka u sternberka
+51247;Paseky nad Jizerou
+73921;Paskov
+69122;Pasohlavky
+43908;Patek u Loun
+27021;Pavlikov
+79830;Pavlovice u Kojetina
+75112;Pavlovice u Prerova
+54221;Pec pod Snezkou 1
+54222;Pec pod Snezkou 3
+26232;Pecice
+51757;Pecin u Rychnova nad Kneznou
+50782;Pecka
+28911;Pecky
+39301;Pelhrimov
+75127;Pencice
+46345;Pencin u Liberce
+33036;Pernarec
+69186;Perna
+36236;Pernink
+43163;Perstejn
+43907;Peruc
+43153;Petipsy
+43985;Petrohrad
+69665;Petrov u Hodonina
+25281;Petrov u Prahy
+73572;Petrovice u Karvine
+50355;Petrovice u Noveho Bydzova
+27035;Petrovice u Rakovnika
+26255;Petrovice u Sedlcan
+34182;Petrovice u Susice
+40337;Petrovice u Usti nad Labem
+73541;Petrvald u Karvine
+74260;Petrvald u Noveho Jicina
+27308;Pchery
+26225;Picin
+47118;Pihel
+54242;Pilnikov
+78965;Pisarov
+79082;Pisecna u Jeseniku
+56170;Pisecna u Zamberka
+37872;Pisecne nad Dyji
+73984;Pisek u Jablunkova
+39701;Pisek 1
+39704;Pisek 4
+39705;Pisek 5
+37346;Pistin
+74718;Pist
+68772;Pitin
+79824;Pivin
+39111;Plana nad Luznici
+34815;Plana u Marianskych Lazni
+28104;Planany
+34034;Planice
+33101;Plasy
+67132;Plavec u Znojma
+46846;Plavy
+35135;Plesna u Chebu
+41142;Ploskovice
+37824;Pluhuv Zdar
+79803;Plumlov
+31000;Plzen 10
+31100;Plzen 11
+31200;Plzen 12
+31300;Plzen 13
+31400;Plzen 14
+31500;Plzen 15
+31600;Plzen 16
+31700;Plzen 17
+31800;Plzen 18
+31900;Plzen 19
+30100;Plzen 1
+32000;Plzen 20
+32100;Plzen 21
+32200;Plzen 22
+32300;Plzen 23
+32400;Plzen 24
+32500;Plzen 25
+32600;Plzen 26
+32700;Plzen 27
+32800;Plzen 28
+30040;Plzen 40
+30400;Plzen 4
+30500;Plzen 5
+30600;Plzen 6
+30700;Plzen 7
+30800;Plzen 8
+30900;Plzen 9
+78312;Pnovice
+28941;Pnov
+34522;Pobezovice
+39464;Pocatky
+26253;Pocepice
+43944;Pocerady-elektrarna
+34509;Pocinovice
+44101;Podborany
+51803;Podbrezi
+29001;Podebrady
+53841;Podhorany u Ronova nad Doubravou
+50754;Podhorni Ujezd
+35123;Podhradi
+69145;Podivin
+66403;Podoli u Brna
+58221;Pohled
+69123;Pohorelice
+38283;Pohorska Ves
+27055;Pochvalov
+34015;Polen
+41147;Polepy
+68737;Polesovice
+47116;Polevsko
+54954;Police nad Metuji
+67534;Police u Jemnice
+57201;Policka
+75144;Polkovice
+58813;Polna
+75365;Polom
+46850;Polubny
+56971;Pomezi
+51242;Ponikla
+37855;Popelin
+69127;Popice
+25702;Popovice
+28914;Poricany
+25721;Porici nad Sazavou
+56964;Porici u Litomysle
+43942;Postoloprty
+34535;Postrekov
+78969;Postrelmov
+25701;Postupice
+75362;Potstat
+51743;Potstejn
+36238;Potucky
+69126;Pouzdrany
+40332;Povrly
+27376;Pozden
+66407;Pozorice
+66458;Prace
+41133;Prackovice nad Labem
+11800;Praha 011
+11900;Praha 012
+11015;Praha 015
+11016;Praha 016
+11001;Praha 01
+22310;Praha 023
+22500;Praha 025
+11002;Praha 02
+11004;Praha 04
+11005;Praha 05
+11006;Praha 06
+10100;Praha 101
+10200;Praha 102
+10004;Praha 104
+10005;Praha 105
+10600;Praha 106
+10007;Praha 107
+10800;Praha 108
+10000;Praha 10
+10010;Praha 110
+10900;Praha 111
+10700;Praha 112
+10300;Praha 113
+10400;Praha 114
+22000;Praha 120
+11000;Praha 1
+12001;Praha 21
+12003;Praha 23
+12004;Praha 24
+12006;Praha 26
+12800;Praha 28
+12000;Praha 2
+13001;Praha 31
+13002;Praha 32
+13003;Praha 33
+13004;Praha 34
+13005;Praha 35
+13000;Praha 3
+14200;Praha 411
+14300;Praha 412
+14400;Praha 413
+14800;Praha 414
+14900;Praha 415
+14016;Praha 416
+14018;Praha 418
+14019;Praha 419
+14100;Praha 41
+14002;Praha 42
+14003;Praha 43
+14004;Praha 44
+14500;Praha 45
+14006;Praha 46
+14700;Praha 47
+14009;Praha 49
+14000;Praha 4
+15531;Praha 511
+15300;Praha 512
+15511;Praha 513
+15400;Praha 514
+15500;Praha 515
+15600;Praha 516
+15521;Praha 517
+15001;Praha 51
+15200;Praha 52
+15003;Praha 53
+15004;Praha 54
+15005;Praha 55
+15006;Praha 56
+15007;Praha 57
+15800;Praha 58
+15900;Praha 59
+15000;Praha 5
+16012;Praha 612
+16100;Praha 614
+16200;Praha 616
+16017;Praha 617
+16300;Praha 618
+16400;Praha 619
+16500;Praha 620
+16005;Praha 65
+16008;Praha 68
+16900;Praha 69
+16000;Praha 6
+17100;Praha 71
+17004;Praha 74
+17000;Praha 7
+18100;Praha 81
+18200;Praha 82
+18400;Praha 84
+18005;Praha 85
+18600;Praha 86
+18700;Praha 87
+18008;Praha 88
+18009;Praha 89
+18000;Praha 8
+19011;Praha 911
+19012;Praha 912
+19300;Praha 913
+19014;Praha 914
+19015;Praha 915
+19016;Praha 916
+19017;Praha 917
+19001;Praha 91
+19002;Praha 92
+19003;Praha 93
+19400;Praha 94
+19005;Praha 95
+19600;Praha 96
+19700;Praha 97
+19800;Praha 98
+19900;Praha 99
+19000;Praha 9
+38301;Prachatice
+53804;Prachovice
+68756;Praksice
+34195;Prasily
+50333;Praskacka
+26754;Praskolesy
+78354;Praslavice
+25709;Pravonin
+73904;Prazmo
+53974;Predhradi
+67527;Predin
+66602;Predklasteri
+29474;Predmerice nad Jizerou
+50302;Predmerice nad Labem
+34038;Predslav
+53501;Prelouc
+79851;Premyslovice
+51261;Prepere
+51732;Prepychy
+28916;Prerov nad Labem
+75151;Prerov 1
+75002;Prerov 2
+75124;Prerov 4
+75005;Prerov 5
+25723;Prestavlky u Cercan
+33401;Prestice
+69124;Pribice
+74258;Pribor
+26101;Pribram 1
+26102;Pribram 2
+26103;Pribram 3
+26104;Pribram 4
+26105;Pribram 5
+58222;Pribyslav
+46848;Prichovice
+78333;Prikazy
+34806;Primda
+46346;Prisovice
+69104;Pritluky
+75613;Prlov
+41712;Probostov u Teplic
+53944;Prosec u Skutce
+54373;Prosecne
+75121;Prosenice
+59264;Prosetin u Bystrice nad Pernstejnem
+53976;Prosetin u Hlinska
+67161;Prosimerice
+79601;Prostejov 1
+79602;Prostejov 2
+79603;Prostejov 3
+79604;Prostejov 4
+79811;Prostejov 6
+79607;Prostejov 7
+79608;Prostejov 8
+79801;Prostejov 9
+75656;Prostredni Becva
+79848;Protivanov
+39811;Protivin
+47167;Provodin
+54908;Provodov-sonov
+66446;Prstice u Brna
+25243;Pruhonice
+69621;Prusanky
+76842;Prusinovice
+47115;Prysk
+73903;Przno
+25244;Psary
+79843;Pteni
+58831;Puklice
+37343;Purkarec
+56983;Pusta Kamenice
+74769;Pusta Polom
+74243;Pustejov
+68321;Pustimer
+25167;Pysely
+34161;Rabi
+68305;Racice-Pistovice
+69667;Radejov u Hodonina
+39120;Radenin
+59233;Radesinska Svratka
+50712;Radim u Jicina
+28103;Radim u Kolina
+56907;Radimer
+67559;Radkovice u Hrotovic
+74783;Radkov
+46803;Radlo
+33828;Radnice u Rokycan
+38731;Radomysl
+43155;Radonice u Kadane
+59444;Radostin nad Oslavou
+28128;Radovesnice
+75111;Radslavice
+74761;Radun
+54212;Radvanice v Cechach
+67902;Rajec-Jestrebi
+66461;Rajhrad
+76871;Rajnochovice
+26901;Rakovnik 1
+26902;Rakovnik 2
+69103;Rakvice
+53972;Rana u Hlinska
+43924;Rana u Loun
+67573;Rapotice
+78814;Rapotin
+37807;Rapsach
+73907;Raskovice
+46367;Rasnice
+55221;Rasosky
+46361;Raspenava
+28507;Rataje nad Sazavou
+76812;Rataje u Kromerize
+28141;Ratbor
+75621;Ratibor u Vsetina
+39142;Ratiborske Hory
+69602;Ratiskovice
+39822;Razice
+79364;Razova
+53313;Recany nad Labem
+41120;Redhost
+40313;Rehlovice
+58824;Rehorov
+34193;Rejstejn
+33445;Rence
+27733;Repin
+73931;Repiste
+53865;Repniky
+56141;Retova
+25230;Revnice
+27054;Revnicov
+25068;Rez u Prahy
+66482;Ricany u Brna
+25101;Ricany u Prahy
+75118;Rikovice
+37324;Rimov
+27378;Risuty
+25203;Ritka
+43967;Rocov
+69601;Rohatec
+78974;Rohle
+53343;Rohovladova Bela
+74726;Rohov
+58844;Rohozna u Jihlavy
+56972;Rohozna u Policky
+33701;Rokycany 1
+33703;Rokycany 3
+51244;Rokytnice nad Jizerou 1
+51245;Rokytnice nad Jizerou 3
+67525;Rokytnice nad Rokytnou
+75104;Rokytnice u Prerova
+51761;Rokytnice v Orlickych horach
+53842;Ronov nad Doubravou
+73956;Ropice
+37846;Rosec
+66501;Rosice u Brna
+53834;Rosice u Chrasti
+26211;Rosovice
+76803;Rostin
+28171;Rostoklaty
+35701;Rotava 1
+35702;Rotava 2
+41301;Roudnice nad Labem
+67557;Rouchovany
+33453;Roupov
+68301;Rousinov u Vyskova
+59265;Rovecne
+51263;Rovensko pod Troskami
+35765;Rovna u Sokolova
+28934;Rozdalovice
+56903;Rozhrani
+38218;Rozmberk nad Vltavou
+38292;Rozmital na sumave
+26242;Rozmital pod Tremsinem
+59252;Rozna
+75661;Roznov pod Radhostem 1
+75664;Roznov pod Radhostem 3
+67973;Rozsec nad Kunstatem
+58866;Rozsec
+58272;Rozsochatec
+59257;Rozsochy
+79862;Rozstani
+51231;Roztoky u Jilemnice
+25263;Roztoky u Prahy
+34807;Rozvadov
+41762;Rtyne nad Bilinou
+54233;Rtyne v Podkrkonosi
+78963;Ruda nad Moravou
+67505;Rudikov
+79335;Rudna pod Pradedem
+25219;Rudna u Prahy
+54372;Rudnik u Vrchlabi
+37371;Rudolfov
+56125;Rudoltice
+40801;Rumburk
+68306;Ruprechtov
+76845;Rusava
+75625;Ruzdka
+74265;Rybi
+51755;Rybna nad Zdobnici
+40751;Rybniste
+56934;Rychnov na Morave
+51601;Rychnov nad Kneznou
+46802;Rychnov u Jablonce nad Nisou
+37336;Rychnov u Novych Hradu
+55225;Rychnovek
+68309;Rychtarov
+73532;Rychvald
+79501;Rymarov
+39401;Rynarec
+27062;Rynholec
+46355;Rynoltice
+79356;Ryzoviste
+36261;Sadov
+28912;Sadska
+67106;Safov
+69167;Sakvice
+50741;Samsina
+28906;Sany
+68353;Saratice
+69613;Sardice
+50759;Sarovcova Lhota
+67122;Satov
+28506;Sazava
+58244;Sazavka
+67935;Sebetov
+67545;Sebkovice
+67931;Sebranice u Boskovic
+56962;Sebranice u Litomysle
+53807;Sec 1
+53805;Sec 3
+26401;Sedlcany
+37347;Sedlec u Ceskych Budejovic
+69121;Sedlec u Mikulova
+33823;Sedlecko u Rokycan
+25791;Sedlec-Prcice 1
+25792;Sedlec-Prcice 2
+38732;Sedlice u Blatne
+73936;Sedliste
+74256;Sedlnice
+51782;Sedlonov
+29446;Semcice
+28917;Semice
+51301;Semily
+34552;Semnevice
+78345;Senice na Hane
+25166;Senohraby
+27031;Senomaty
+74242;Senov u Noveho Jicina
+73934;Senov u Ostravy
+39456;Senozaty
+39851;Sepekov
+25092;Sestajovice
+37363;Sevetin
+53304;Sezemice
+39101;Sezimovo Usti 1
+39102;Sezimovo Usti 2
+25084;Sibrina
+74715;Silherovice
+35706;Sindelova
+79322;Siroka Niva
+69176;Sitborice
+67901;Skalice nad Svitavou
+47117;Skalice u Ceske Lipy
+67136;Skalice u Znojma
+75352;Skalicka u Hranic
+35134;Skalna
+29426;Skalsko
+38775;Skocice
+79066;Skorosice
+74259;Skotnice
+78334;Skrben
+59221;Skrdlovice
+74745;Skripov u Opavy
+50352;Skrivany u Noveho Bydzova
+27042;Skryje u Rakovnika
+51703;Skuhrov nad Belou
+58241;Skuhrov u Havlickova Brodu
+53973;Skutec
+25083;Skvorec
+27041;Slabce
+39847;Slabcice
+51201;Slana u Semil
+27401;Slany 1
+27403;Slany 3
+66451;Slapanice u Brna
+27372;Slapanice v Cechach
+58251;Slapanov
+25208;Slapy nad Vltavou
+39176;Slapy u Tabora
+54947;Slatina nad Upou
+51756;Slatina nad Zdobnici
+74293;Slatina u Bilovce
+53821;Slatinany
+78342;Slatinice
+50701;Slatiny u Jicina
+37321;Slavce
+43909;Slavetin nad Ohri
+78324;Slavetin u Litovle
+76321;Slavicin
+58265;Slavikov
+68401;Slavkov u Brna
+74757;Slavkov u Opavy
+37881;Slavonice
+79397;Slezske Rudoltice
+47152;Sloup v Cechach
+67913;Sloup v Moravskem Krasu
+56553;Sloupnice
+40777;Sluknov
+76315;Slusovice
+27305;Smecno
+50353;Smidary
+25790;Smilkov
+73955;Smilovice u Trince
+39152;Smilovy Hory
+50303;Smirice
+43914;Smolnice
+26236;Smolotely
+58801;Smrcna
+79817;Smrzice
+46851;Smrzovka
+41174;Snedovice
+59203;Snezne
+75354;Sobechleby
+34166;Sobesice u Susice
+39201;Sobeslav
+73922;Sobesovice
+58262;Sobinov
+78816;Sobotin
+50743;Sobotka
+29475;Sojovice
+66452;Sokolnice
+35601;Sokolov 1
+35603;Sokolov 3
+35605;Sokolov 5
+26233;Solenice
+51701;Solnice
+54971;Sonov u Broumova
+56115;Sopotnice
+79314;Sosnova
+25771;Soutice
+33561;Spalene Porici
+74237;Spalov
+54351;Spindleruv Mlyn
+27705;Spomysl
+43101;Sporice
+76364;Spytihnev
+27065;Srbec
+40715;Srbska Kamenice
+34194;Srni
+56544;Sruby
+74782;Stablovice
+39162;Stadlec
+33203;Stahlavy
+38473;Stachy
+43949;Stankovice u Zatce
+34561;Stankov
+36213;Stanovice
+79053;Stara Cervena Voda
+26202;Stara Hut u Dobrise
+28926;Stara Lysa
+50791;Stara Paka
+58867;Stara Rise
+73923;Stara Ves nad Ondrejnici
+75107;Stara Ves u Prerova
+79343;Stara Ves u Rymarova
+54243;Stare Buky
+73915;Stare Hamry
+37871;Stare Hobzi
+53352;Stare Hradiste u Pardubic
+40761;Stare Krecany
+37882;Stare Mesto pod Landstejnem
+78832;Stare Mesto pod Sneznikem
+79333;Stare Mesto u Bruntalu
+56932;Stare Mesto u Moravske Trebove
+68602;Stare Mesto u Uherskeho Hradiste 1
+68603;Stare Mesto u Uherskeho Hradiste 3
+34801;Stare Sedliste
+35746;Stare Sedlo u Sokolova
+34804;Stare Sedlo u Tachova
+47163;Stare Splavy
+53344;Stare Zdanice
+67522;Starec
+73943;Staric
+54936;Starkov
+26282;Starosedlsky Hradek
+50357;Stary Bydzov
+68774;Stary Hrozenkov
+74231;Stary Jicin
+28123;Stary Kolin
+33202;Stary Plzenec
+69616;Stary Poddvorov
+74751;Steborice
+36451;Stedra
+27342;Stehelceves
+25207;Stechovice
+38751;Steken
+33209;Stenovice
+74728;Stepankovice
+59263;Stepanov nad Svratkou
+78313;Stepanov u Olomouce
+37373;Stepanovice u Ceskych Budejovic
+78501;Sternberk 1
+78503;Sternberk 3
+41108;Steti
+26292;Stetkovice
+50321;Stezery
+74791;Stitina
+76333;Stitna nad Vlari
+78991;Stity
+33301;Stod
+27303;Stochov
+58253;Stoky
+58833;Stonarov
+73534;Stonava
+38444;Stozec
+50314;Stracov
+74730;Strahovice
+67129;Strachotice
+38601;Strakonice 1
+38602;Strakonice 2
+38603;Strakonice 3
+38604;Strakonice 4
+28925;Straky
+74266;Stramberk
+25163;Strancice
+68765;Strani
+33845;Strasice
+34165;Strasin u Susice
+41184;Straskov-Vodochody
+37802;Straz nad Nezarkou
+46303;Straz nad Nisou
+36274;Straz nad Ohri
+47127;Straz pod Ralskem
+34805;Straz u Tachova
+59253;Strazek
+79844;Strazisko
+54352;Strazne
+69662;Straznice
+38443;Strazny
+34024;Strazov na sumave
+69638;Strazovice
+25268;Stredokluky
+66447;Strelice u Brna
+38715;Strelske Hostice
+50722;Strevac
+25787;Strezimir
+37818;Stribrec
+28167;Stribrna Skalice
+35721;Stribrna
+34901;Stribro
+76804;Strilky
+75652;Stritez nad Becvou
+75363;Stritez nad Ludinou
+73959;Stritez u Ceskeho Tesina
+58811;Stritez u Jihlavy
+33207;Strizovice u Plzne
+37853;Strmilov
+43986;Strojetice
+38426;Strunkovice nad Blanici
+43114;Strupcice
+36472;Struzna
+37856;Studena
+51233;Studenec u Horek
+74211;Studenka 1
+74213;Studenka 3
+54948;Studnice u Nachoda
+68308;Studnice u Vyskova
+47102;Stvolinky
+74725;Sudice
+78821;Sudkov
+69666;Sudomerice nad Moravou
+39172;Sudomerice u Bechyne
+39136;Sudomerice u Tabora
+56113;Sudslava
+68753;Sucha Loz
+37806;Suchdol nad Luznici
+74201;Suchdol nad Odrou
+28502;Suchdol u Kutne Hory
+79845;Suchdol u Prostejova
+74795;Suche Lazce
+26722;Suchomasty
+54962;Suchy Dul
+41162;Sukorady
+41111;Sulejovice
+38471;Sumavske Hostice
+68731;Sumice
+67102;Sumna
+78701;Sumperk 1
+78702;Sumperk 2
+78703;Sumperk 3
+78704;Sumperk 4
+78385;Sumvald u Unicova
+79051;Supikovice
+34201;Susice 1
+34202;Susice 2
+34203;Susice 3
+68324;Svabenice
+35703;Svatava
+69604;Svatoborice
+37323;Svaty Jan nad Malsi
+26264;Svaty Jan u Sedlcan
+41753;Svetec
+79331;Svetla Hora
+58291;Svetla nad Sazavou
+46351;Svetla pod Jestedem
+38216;Svetlik
+73925;Sviadnov
+53824;Svidnice u Chrudime
+34012;Svihov
+26728;Svinare
+67932;Svitavka
+56801;Svitavy 1
+56802;Svitavy 2
+56804;Svitavy 4
+54224;Svoboda nad Upou
+79313;Svobodne Hermanice
+56973;Svojanov
+47153;Svojkov
+28107;Svojsice u Kolina
+53362;Svojsice u Prelouce
+34956;Svojsin
+47151;Svor
+59202;Svratka
+53942;Svratouch
+46344;Sychrov
+66467;Syrovice
+39001;Tabor 1
+39002;Tabor 2
+39003;Tabor 3
+39156;Tabor 4
+39005;Tabor 5
+25217;Tachlovice
+34701;Tachov 1
+34703;Tachov 3
+34704;Tachov 4
+39815;Talin
+46841;Tanvald
+67579;Tasov
+56131;Tatenice
+51253;Tatobity
+67140;Tavikovice
+56166;Techonin
+58856;Telc
+56994;Teleci
+66459;Telnice u Brna
+40338;Telnice u Usti nad Labem
+37305;Temelin-elektrarna
+37301;Temelin
+69684;Temice u Hodonina
+39496;Temice u Kamenice nad Lipou
+36461;Tepla u Touzime
+75351;Teplice nad Becvou
+54957;Teplice nad Metuji
+41510;Teplice 10
+41501;Teplice 1
+41502;Teplice 2
+41503;Teplice 3
+41504;Teplice 4
+41508;Teplice 8
+33810;Teresov
+41155;Terezin
+73542;Terlicko
+66454;Tesany
+78346;Tesetice
+66417;Tetcice
+74274;Ticha
+58243;Tis u Chotebore
+40336;Tisa
+74294;Tisek
+27715;Tisice
+66601;Tisnov 1
+66603;Tisnov 3
+79829;Tistin
+33026;Tlucna
+76362;Tlumacov
+26721;Tman
+26281;Tochovice
+68711;Topolna
+36401;Touzim
+75101;Tovacov
+73993;Tranovice
+68704;Traplice
+56933;Trebarov
+50346;Trebechovice pod Orebem
+67532;Trebelovice
+41113;Trebenice
+35111;Treben
+67401;Trebic 1
+67402;Trebic 2
+67403;Trebic 3
+67404;Trebic 4
+67405;Trebic 5
+41115;Trebivlice
+27375;Trebiz
+38737;Trebohostice
+28544;Trebonin
+37901;Trebon
+25226;Trebotov
+56124;Trebovice u Lanskrouna
+26271;Trebsko
+79382;Tremesna u Krnova
+34808;Tremesne pod Primdou
+33011;Tremosna u Plzne
+53843;Tremosnice
+58901;Trest
+34533;Trhanov
+53952;Trhova Kamenice
+37401;Trhove Sviny
+25763;Trhovy stepanov
+35473;Tri Sekery
+73965;Trinec 11
+73961;Trinec 1
+73963;Trinec 3
+73957;Trinec 4
+73958;Trinec 5
+73964;Trinec 8
+73966;Trinec 9
+40004;Trmice
+76318;Trnava u Zlina
+74261;Trnavka u Noveho Jicina
+51733;Trnov u Dobrusky
+33013;Trnova u Plzne
+53833;Trojovice
+78383;Troubelice
+75102;Troubky nad Becvou
+66441;Troubsko
+56974;Trpin
+34972;Trpisty
+78357;Trsice
+56957;Trstenice u Litomysle
+67137;Trstenice u Moravskeho Krumlova
+50704;Trtenice
+54101;Trutnov 1
+54103;Trutnov 3
+54102;Trutnov 4
+54106;Trutnov 6
+39126;Tucapy u Sobeslave
+27302;Tuchlovice
+25267;Tuchomerice
+43969;Tuchorice
+67173;Tulesice
+28563;Tupadly
+68707;Tupesy
+27379;Turany u Slaneho
+53363;Turkovice u Prelouce
+51101;Turnov 1
+51102;Turnov 2
+39121;Turovec
+25265;Tursko
+66405;Tvarozna
+69153;Tvrdonice
+33201;Tymakov
+75132;Tyn nad Becvou
+37501;Tyn nad Vltavou 1
+37503;Tyn nad Vltavou 3
+28126;Tynec nad Labem
+25741;Tynec nad Sazavou
+69154;Tynec u Breclave
+51721;Tyniste nad Orlici
+50792;Ubislavice
+34512;Uboc
+43141;Udlice
+58245;Uhelna Pribram
+79068;Uhelna
+69162;Uhercice u Hustopeci
+67107;Uhercice u Znojma
+68601;Uherske Hradiste 1
+68605;Uherske Hradiste 5
+68606;Uherske Hradiste 6
+53373;Uhersko
+68801;Uhersky Brod 1
+68802;Uhersky Brod 2
+68734;Uhersky Brod 3
+68724;Uhersky Ostroh
+28504;Uhlirske Janovice
+25218;Uhonice
+53832;Uhretice
+59441;Uhrinov
+66453;Ujezd u Brna
+33826;Ujezd u Svateho Krize
+78396;Ujezd u Unicova
+76325;Ujezd u Valasskych Klobouk
+50707;Ulibice
+33034;Ulice
+28546;Umonin
+67131;Unanov
+78331;Uncovice
+33038;Unesov
+27351;Unhost
+78391;Unicov 1
+78381;Unicov 3
+67924;Unin u Tisnova
+54232;Upice
+58862;Urbanov
+79804;Urcice
+34511;Usilov
+58254;Usobi
+67939;Usobrno
+78973;Usov
+41145;Ustek
+40010;Usti nad Labem 10
+40011;Usti nad Labem 11
+40331;Usti nad Labem 16
+40321;Usti nad Labem 17
+40302;Usti nad Labem 18
+40340;Usti nad Labem 19
+40001;Usti nad Labem 1
+40322;Usti nad Labem 20
+40002;Usti nad Labem 2
+40003;Usti nad Labem 3
+40019;Usti nad Labem 50
+40006;Usti nad Labem 6
+40007;Usti nad Labem 7
+40008;Usti nad Labem 8
+56201;Usti nad Orlici 1
+56203;Usti nad Orlici 3
+56204;Usti nad Orlici 4
+56206;Usti nad Orlici 6
+33040;Utery
+36466;Utvina
+79391;Uvalno
+25082;Uvaly
+27745;Uzice u Kralup nad Vltavou
+69606;Vacenovice
+79341;Vaclavov u Bruntalu
+73935;Vaclavovice u Frydku-Mistku
+38486;Vacov
+75627;Valasska Bystrice
+75611;Valasska Polanka
+76601;Valasske Klobouky
+75701;Valasske Mezirici 1
+75663;Valasske Mezirici 3
+75704;Valasske Mezirici 4
+75705;Valasske Mezirici 5
+75706;Valasske Mezirici 6
+50711;Valdice
+67553;Valec u Hrotovic
+36455;Valec v Cechach
+40724;Valkerice
+47105;Valterice
+69142;Valtice
+51754;Vamberk
+67936;Vanovice
+79064;Vapenna
+53316;Vapno u Prelouce
+40747;Varnsdorf 1
+40752;Varnsdorf 3
+74773;Vavrovice
+53957;Vcelakov
+59244;Vecov
+67174;Vedrovice
+33027;Vejprnice
+43191;Vejprty
+68706;Velehrad
+41131;Velemin
+38232;Velesin
+34183;Velhartice
+55211;Velichovky
+28101;Velim
+50721;Velis u Jicina
+59501;Velka Bites
+40729;Velka Bukovina u Decina
+78353;Velka Bystrice
+27361;Velka Dobra
+35471;Velka Hledsebe
+39428;Velka Chyska
+55224;Velka Jesenice
+79058;Velka Kras
+26205;Velka Lecice
+37858;Velka Lhota
+59211;Velka Losenice
+69674;Velka nad Velickou
+74764;Velka Polom
+74291;Velke Albrechtice
+69102;Velke Bilovice
+40323;Velke Brezno
+46845;Velke Hamry
+74775;Velke Heraltice
+69174;Velke Hosteradky
+74731;Velke Hostice
+40334;Velke Chvojno
+75606;Velke Karlovice
+79052;Velke Kunetice
+78815;Velke Losiny
+59401;Velke Mezirici
+69163;Velke Nemcice
+67963;Velke Opatovice
+69106;Velke Pavlovice
+25169;Velke Popovice
+54932;Velke Porici
+25264;Velke Prilepy
+54235;Velke Svatonovice
+29427;Velke Vselisy
+58821;Velky Beranov
+27731;Velky Borek
+34151;Velky Bor
+76307;Velky Orechov
+28151;Velky Osek
+40778;Velky senov
+55202;Velky Trebesov
+78372;Velky Tynec 1
+77700;Velky Tynec 2
+78355;Velky Ujezd
+54454;Velky Vrestov
+27746;Veltrusy
+27324;Velvary
+67142;Vemyslice
+56914;Vendoli
+73994;Vendryne
+56152;Vermerovice
+40725;Vernerice
+78376;Verovany
+74273;Verovice
+36456;Verusicky
+51252;Vesela u Semil
+39181;Veseli nad Luznici 1
+39182;Veseli nad Luznici 2
+69801;Veseli nad Moravou
+75125;Veselicko u Lipnika nad Becvou
+39842;Veselicko u Milevska
+26243;Vesin
+74743;Vetrkovice u Vitkova
+38211;Vetrni
+58842;Vetrny Jenikov
+66471;Veverska Bityska
+58252;Veznice u Havlickova Brodu
+58256;Vez
+75653;Vidce
+79055;Vidnava
+59457;Vidonin
+51241;Vichova nad Jizerou
+78813;Vikyrovice
+58835;Vilanec
+58283;Vilemov u Golcova Jenikova
+43154;Vilemov u Kadane
+78323;Vilemov u Litovle
+40780;Vilemov u sluknova
+38501;Vimperk
+27307;Vinarice u Kladna
+43915;Vinarice u Loun
+66406;Vinicne sumice
+35744;Vintirov u Sokolova
+59266;Vir
+67933;Visky u Letovic
+46372;Visnova u Frydlantu
+26261;Visnova u Pribrame
+67138;Visnove u Znojma
+56906;Vitejeves
+38427;Vitejovice
+54462;Vitezna-Koclerov
+28106;Vitice
+74901;Vitkov 1
+74747;Vitkov 3
+51238;Vitkovice v Krkonosich
+76312;Vizovice
+67501;Vladislav
+76324;Vlachovice
+38422;Vlachovo Brezi
+69130;Vlasatice
+25801;Vlasim
+28523;Vlastejovice
+41114;Vlastislav
+79067;Vlcice u Jeseniku
+54241;Vlcice u Trutnova
+54444;Vlckovice v Podkrkonosi
+68761;Vlcnov
+28564;Vlkanec
+69641;Vlkos u Kyjova
+75119;Vlkos u Prerova
+69661;Vnorovy
+51734;Voderady u Rychnova nad Kneznou
+39153;Vodice u Tabora
+38901;Vodnany
+25069;Vodochody
+36273;Vojkovice nad Ohri
+27744;Vojkovice u Kralup nad Vltavou
+25754;Vojkov
+59222;Vojnuv Mestec
+35133;Vojtanov
+38451;Volary
+33822;Volduchy
+38716;Volenice
+47112;Volfartice
+38701;Volyne
+53961;Vortova
+25901;Votice
+56542;Vraclav
+69642;Vracov
+27707;Vranany
+25246;Vrane nad Vltavou
+67191;Vranov nad Dyji-prehrada
+67103;Vranov nad Dyji
+66432;Vranov u Brna
+56946;Vranova Lhota
+69125;Vranovice
+27373;Vrany u Slaneho
+67108;Vratenin
+73932;Vratimov 1
+73933;Vratimov 3
+26711;Vraz u Berouna
+39832;Vraz u Pisku
+74234;Vrazne
+79813;Vrbatky
+53956;Vrbatuv Kostelec
+41121;Vrbicany
+69109;Vrbice u Breclave
+41164;Vrbice u Roudnice nad Labem
+43906;Vrbno nad Lesy
+79326;Vrbno pod Pradedem
+67124;Vrbovec
+33541;Vrcen
+28571;Vrdy
+74285;Vresina u Bilovce
+74720;Vresina u Hlucina
+35743;Vresova u Sokolova
+79809;Vresovice
+54301;Vrchlabi 1
+54303;Vrchlabi 3
+54302;Vrchlabi 4
+54306;Vrchlabi 6
+25753;Vrchotovy Janovice
+43982;Vroutek
+50733;Vrsce
+43115;Vrskman
+75353;Vsechovice
+46348;Vselibice
+25231;Vsenory
+51265;Vsen
+26726;Vseradice
+34507;Vseruby u Kdyne
+33016;Vseruby u Plzne
+50312;Vsestary
+27716;Vsetaty
+75501;Vsetin 1
+75504;Vsetin 4
+75505;Vsetin 5
+75506;Vsetin 6
+75507;Vsetin 7
+39427;Vyklantice
+56134;Vyprachtice
+51264;Vysker
+68201;Vyskov 1
+68203;Vyskov 3
+68204;Vyskov 4
+58841;Vyskytna nad Jihlavou
+39405;Vyskytna u Pelhrimova
+43183;Vysluni
+73906;Vysni Lhoty
+34809;Vysocany
+50331;Vysoka nad Labem
+43159;Vysoka Pec
+27724;Vysoka u Melnika
+53321;Vysoke Chvojno
+56601;Vysoke Myto
+51211;Vysoke nad Jizerou
+66486;Vysoke Popovice
+50703;Vysoke Veseli
+54912;Vysokov
+26252;Vysoky Chlumec
+26716;Vysoky Ujezd u Berouna
+38273;Vyssi Brod
+66463;Zabcice
+38433;Zablati u Prachatic
+28574;Zabori nad Labem
+38734;Zabori u Blatne
+78901;Zabreh
+41771;Zabrusany
+54201;Zacler 1
+54202;Zacler 3
+34812;Zadni Chodov
+26729;Zadni Treban
+69649;Zadovice
+34547;Zahorany
+39818;Zahori u Pisku
+68735;Zahorovice
+47101;Zahradky u Ceske Lipy
+56186;Zachlumi
+53835;Zajecice
+69105;Zajeci
+26763;Zajecov
+27328;Zakolany
+47123;Zakupy
+41763;Zalany
+41101;Zalhostice
+26284;Zaluzany
+56401;Zamberk
+56543;Zamrsk
+47107;Zandov u Ceske Lipy
+69634;Zarosice
+46825;Zasada
+28144;Zasmuky
+75651;Zasova
+66484;Zastavka u Brna
+43801;Zatec 1
+43802;Zatec 2
+43803;Zatec 3
+79316;Zator
+34174;Zavlekov
+27024;Zbecno
+33808;Zbiroh
+76832;Zborovice
+66488;Zbraslav u Brna
+28521;Zbraslavice
+33022;Zbuch
+66411;Zbysov u Brna
+28565;Zbysov v Cechach
+38441;Zbytiny
+69632;Zdanice
+54955;Zdar nad Metuji
+51723;Zdar nad Orlici
+59101;Zdar nad Sazavou 1
+59102;Zdar nad Sazavou 2
+59103;Zdar nad Sazavou 3
+29412;Zdar u Mnichova Hradiste
+59456;Zdarec
+54937;Zdarky
+67952;Zdarna
+53311;Zdechovice
+75607;Zdechov
+25066;Zdiby
+26751;Zdice
+38472;Zdikov
+58263;Zdirec nad Doubravou
+25764;Zdislavice
+76802;Zdounky
+26753;Zebrak
+28905;Zehun
+28575;Zehusice
+75116;Zelatovice
+39174;Zelec u Tabora
+43102;Zelena
+25091;Zelenec v Cechach
+66443;Zelesice
+67526;Zeletava
+69637;Zeletice u Kyjova
+67135;Zeletice u Znojma
+34004;Zelezna Ruda
+50713;Zeleznice
+46822;Zelezny Brod
+39444;Zeliv
+74267;Zenklava
+69647;Zeravice
+50702;Zeretice
+58826;Zhor u Jihlavy
+66701;Zidlochovice
+33165;Zihle
+34163;Zihobce
+34162;Zichovice
+74742;Zimrovice
+37366;Zimutice
+33554;Zinkovy
+39468;Zirovnice
+41141;Zitenice
+53342;Zivanice
+28129;Zizelice nad Cidlinou
+38202;Zlata Koruna
+46847;Zlata Olesnice
+79376;Zlate Hory v Jesenikach
+28561;Zleby
+68710;Zlechov
+76311;Zlin 11
+76314;Zlin 12
+76001;Zlin 1
+76003;Zlin 3
+76302;Zlin 4
+76005;Zlin 5
+76006;Zlin 6
+76007;Zlin 7
+37344;Zliv
+76831;Zlobice
+27371;Zlonice
+50734;Zlunice
+36452;Zlutice
+66901;Znojmo 1
+66902;Znojmo 2
+66903;Znojmo 3
+66904;Znojmo 4
+67181;Znojmo 5
+28522;Zruc nad Sazavou 1
+28551;Zruc nad Sazavou 3
+33008;Zruc-Senec
+75654;Zubri
+79065;Zulova
+53836;Zumberk
+28913;Zverinek
+25705;Zvestov
+33813;Zvikovec
+59256;Zvole nad Pernstejnem
+25245;Zvole u Prahy
+27325;Zvoleneves
