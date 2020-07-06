@@ -1,9 +1,17 @@
 # uni-projects
 Collection of my uni projects, comments are in Czech only
 
+### Computer Communications and Networks
+- proj1 (in C/C++)
+  - Client using sockets API for getting info about object from given URL using HTTP 1.1 protocol.
+- proj2 (in C/C++)
+  - Simple client/server directory service, using own simple application protocol, server "translates" list of ZIP codes to corresponding names.
+- proj3 (in C)
+  - Reliable Data Transfer (strings) over UDP, implementing concepts such as packet CRC, sliding window and timers 
 
-### Computer Graphics Principles
-- student (in C)
+### Signals and Systems
+- src (in Matlab)
+  - Basic digital image processing such as sharpen, flip, noise reduction, blur, histogram adjusting
 
 ### Introduction To Programming Systems
 - proj1 (in C)
@@ -17,6 +25,8 @@ Collection of my uni projects, comments are in Czech only
 
 ### Network Applications and Network Administration
 - ndpv6 (in C)
+  - ICMPv6 Neighbour Discovery Proxy using simplified Neighbour Cache table
+  - implemented using LibPCAP library
 
 ### Operating Systems
 - findproc (in KSH - KornSHell)
