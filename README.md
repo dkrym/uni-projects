@@ -10,7 +10,7 @@ Collection of my uni projects, comments are in Czech only
 - proj1 (in C) - Replace whitespaces by 1 space and output defined number of words/sentences per line.
 - proj2 (in C) - Iterative calculations: logarithm, exponentiation, harmonic mean, standard deviation and definite integral by rectangular integration
 - proj3 (in C) - Matrix operations
-- proj4 (in C) - Put a list of words to correct Czech alphabetical order
+- proj4 (in C) - Sort a list of words to correct Czech alphabetical order
 
 ### Network Applications and Network Administration
 - ndpv6 (in C) - ICMPv6 Neighbour Discovery Proxy using simplified Neighbour Cache table, implemented using LibPCAP library
